@@ -1,0 +1,1500 @@
+malevolence	vindictiveness	viciousness	cruelty	sadism	spitefulness	meanness	nastiness	horror	hate	evil	wickedness	sinfulness	immorality	wrongness
+shield	buckler	targe	pavise	rondache	heater	escutcheon	boss	defense	protection	equipment	tool	object	thing	item
+cave_explorer	speleologist	caver	explorer	adventurer	scientist	researcher	professional	person	individual	being	creature	living_thing	entity	thing
+legal_action	lawsuit	prosecution	proceeding	case	matter	issue	point	topic	subject	affair	business	concern	matter_at_hand	predicament
+jeff_francis	baseball_player	athlete	sportsperson	sportsman	professional	person	individual	being	creature	living_thing	entity	thing	item	object
+practicality	realism	efficiency	effectiveness	usefulness	practicality	rationalism	materialism	science	philosophy	belief	ideology	system	doctrine	dogma
+freedom	liberty	independence	autonomy	democracy	republic	state	government	polity	organization	system	method	procedure	approach	way
+group_of_fish	school	swarm	pod	flight	pack	herd	drove	flock	multitude	gathering	assembly	mass	throng	crowd
+criminal	miscreant	thief	robber	burglar	murderer	rapist	arsonist	vandal	hoodlum	punk	thug	gangster	outlaw	lawbreaker
+windowpane	pane	sheet	section	part	piece	portion	fragment	bit	morsel	crumb	drop	jot	particle	speck
+specter	ghost	phantom	spirit	soul	ghost_figure	visual_phenomenon	entity	supernatural_being	spiritual_being	supernatural_entity	spirit_being	apparition	phantasm	hallucination
+actor	celebrity	movie_star	performer	personality	actor_male	leading_man	english_actor	irish_actor	theater_actor	character_actor	stage_actor	james_mason	oscar_nominee	film_actor
+speaker	audio_device	loudspeaker	subwoofer	woofer	transducer	sound_system	audio_component	electroacoustic_transducer	audio_equipment	sound_reproduction_device	sound_transducer	bass_speaker	sound_driver	audio_driver
+book	old_testament	bible	torah	exodus	sacred_text	religious_text	holy_book	biblical_book	chapter_of_the_torah	chapter_of_the_bible	book_of_the_bible	book_of_the_torah	part_of_the_pentateuch	historical_text
+antidepressant	medication	drug	pharmaceutical	lofepramine	psychotropic	psychiatric_drug	tricyclic_antidepressant	monoamine_reuptake_inhibitor	selective_serotonin_reuptake_inhibitor	serotonin_reuptake_inhibitor	norepinephrine_reuptake_inhibitor	mood_stabilizer	prescription_drug	therapeutic_agent
+organize	control	direct	lead	supervise	oversee	govern	administrate	manage	handle	conduct	run	operate	oversee	execute
+village	cinque_terre	italy	town	hamlet	municipality	settlement	community	urban_area	village_in_italy	village_in_cinque_terre	liguria_village	coastal_village	tourist_destination	manarola
+market_price	spot_price	current_price	live_price	prevailing_price	ruling_price	market_rate	price_in_the_market	trading_price	going_rate	futures_price	benchmark_price	reference_price	settlement_price	transaction_price
+balance	equilibrium	homeostasis	stability	stability_of_internal_environment	control_of_internal_environment	self-regulation	regulation_of_internal_environment	biological_balance	bodily_balance	physiological_balance	steady_state	balance_of_systems	physiological_equilibrium	biological_equilibrium
+actor	television_actor	film_actor	television_personality	celebrity	personality	performer	artist	tv_actor	american_actor	supporting_actor	andrew_mccormick	voice_actor	tv_personality	screen_actor
+rod	coccus	prokaryotic_cell	bacteria	organism	germ	microbe	microorganism	life	living_thing	entity	thing	object	staph	germ
+weapon	siege_engine	tool	object	thing	possession	item	goods	equipment	materials	materiel	ordnance	artillery	firearm	gun
+respiratory_ailment	respiratory_disorder	lung_disease	respiratory_condition	lung_condition	breathing_difficulty	respiratory_distress	respiratory_failure	respiratory_problem	pulmonary_disease	bronchial_disease	tracheobronchial_disease	infection	disease	ailment
+walkway	path	road	way	street	lane	alley	avenue	route	thoroughfare	highway	transport	transportation	travel	journey
+female	woman	lady	girl	person	character	heroine	protagonist	video_game_character	nintendo_character	princess	royalty	role	model	profession
+bow	weapon	siege_engine	tool	object	thing	possession	item	goods	equipment	materials	materiel	ordnance	artillery	firearm
+reporter	journalist	writer	author	broadcaster	personality	figure	individual	person	professional	employee	worker	laborer	staff	crew
+event	occurrence	happening	incident	affair	experience	adventure	episode	situation	circumstance	condition	state	status	position	predicament
+bird_colony	bird_habitat	bird_area	bird_place	bird_location	bird_site	bird_environment	bird_surroundings	bird_setting	bird_neighborhood	bird_vicinity	bird_proximity	bird_closeness	bird_nearness	bird_adjacency
+motor	power_source	energy_source	power_unit	energy_unit	power_plant	energy_plant	power_station	energy_station	power_generator	energy_generator	power_producer	energy_producer	machine	device
+playable_character	video_game_character	character	fictional_character	game_character	video_game_star	fictional_person	person	individual	being	entity	thing	creation	product	invention
+female_sovereign	female_monarch	monarch	sovereign	ruler	chief_of_state	leader	head_of_state	chief_executive	head_of_government	constitutional_monarch	supreme_ruler	sovereign_head_of_state	female_head_of_state	historical_figure
+baked_food	food	baked_good	foodstuff	粮食	edible	provision	nourishment	sustenance	nutrition	aliment	victuals	fare	comestible	consumable
+plastic_foam	foam	expanded_polystyrene	polystyrene	synthetic_material	plastic	polymer	chemical_compound	substance	matter	stuff	foam_core	packing_material	insulation_material	building_material
+warplane	combat_aircraft	military_aircraft	airplane	aircraft	air_vehicle	flying_machine	machine	device	apparatus	contraption	gadget	tool	instrument	ordnance
+common	usual	typical	normal	everyday	mundane	unremarkable	regular	routine	customary	conventional	traditional	established	habitual	practiced
+alcoholic_beverage	beverage	drink	fermented_drink	fermented_grape_juice	fermented_fruit_juice	fruit_wine	grape_wine	dry_white_wine	dry_red_wine	sparkling_red_wine	sparkling_white_wine	sweet_white_wine	dessert_wine	fortified_wine
+aid	assistance	help	support	provision	sustenance	succor	alms	charity	donation	gift	grant	handout	subsidy	welfare
+female_royal	female_aristocrat	royal	aristocrat	nobility	gentry	peerage	ruling_class	upper_class	elite	establishment	power_elite	privileged_class	ruling_family	royal_family
+course_of_action	plan	strategy	approach	tactic	method	procedure	protocol	guideline	rule	regulation	law	statute	decree	edict
+architect	designer	artist	creative_professional	professional	engineer	builder	maker	craftsman	worker	person	human	being	creature	organism
+atoll	island	landmass	land	terrain	place	location	area	region	zone	world	nature	creation	universe	cosmos
+author	writer	novelist	journalist	essayist	critic	intellectual	celebrity	public_figure	person	female	human	being	creature	organism
+rule	law	regulation	principle	standard	guideline	norm	precept	code	custom	tradition	practice	usage	protocol	procedure
+magistrate	jurist	lawyer	legal_professional	professional	public_official	government_official	official	employee	worker	person	human	being	creature	organism
+government	regime	system	organization	institution	entity	group	collective	society	community	world	nature	creation	universe	cosmos
+rule	regulation	principle	standard	guideline	norm	precept	code	custom	tradition	practice	usage	protocol	procedure	system
+response	reaction	movement	action	behavior	act	deed	event	occurrence	experience	fact	reality	truth	nature	creation
+particle	element	atom	matter	substance	material	stuff	nature	creation	universe	cosmos	world	place	location	area
+painter	artist	creative_professional	professional	human	being	creature	organism	person	male	individual	soul	spirit	essence	self
+king	roman	emperor
+financial_transaction	investment	trading_strategy
+acidic_substance	chemical	salt
+geneticist	chemist	nobel_laureate
+killing	crime	unlawful_killing
+vegetable	fruit	plant
+professional	healthcare_professional	medical_professional
+country	nation	state
+coffin	tomb	burial_container
+person	enthusiast	hobbyist
+chip	circuit	electronic_circuit	electrical_part	component	part	electrical_component	electronic_component	electronic_device	device	electrical_device	electronic_article	electronic_equipment	appliance	electrical_appliance
+celebration	special_occasion	joyful_event	holiday	party	gathering	social_gathering	social_event	event	occasion	commemoratory_occasion	religious_holiday	secular_holiday	feast	festival
+buying	purchase	acquisition	procurement	retail	trade	commerce	business	activity	occupation	pastime	hobby	entertainment	recreation	leisure_activity
+magma	algebraic_structure	mathematical_structure	structure	binary_operation	closed_binary_operation	associative_binary_operation	identity_element	mathematical_object	abstract_object	concept	mental_object	mental_construct	mathematical_concept	algebraic_concept
+watershed	drainage_basin	river_basin	basin	valley	geographical_feature	landform	natural_feature	physical_feature	terrain	topography	earth_science	environmental_science	natural_science	science
+chair	chairperson	host	facilitator	leader	individual	person	human_being	living_thing	organism	creature	animal	vertebrate	mammal	primate
+clarified_butter	butter	dairy_product	milk_product	food_product	food	sustenance	nourishment	nutrition	comestible	edible	eatable	consumable	ingestible	digestible
+detective	investigator	sleuth	crime_solver	fictional_character	literary_character	character	fictional_person	literary_person	person	human_being	living_thing	organism	creature	animal
+drama	play	theatrical_production	stage_play	theatrical_work	work_of_art	art	creative_work	mental_creation	product_of_the_mind	intellectual_creation	human_creation	invention	discovery	innovation
+structure	building	architectural_structure	human-made_structure	construction	edifice	fabrication	artifact	object	physical_object	material_object	tangible_object	solid_object	rigid_object	immovable_object
+researcher	developer	entrepreneur	writer	speaker	futurist	philosopher	expert	artificial_intelligence_researcher	transhumanist	advocate	thinker	visionary	intellectual	public_speaker
+length	distance	measure	dimension	size	magnitude	measurement	circumference	radius	diameter_of_circle	diameter_of_sphere	dimension_of_object	linear_measurement	geometrical_concept	mathematical_concept
+author	writer	journalist	freelancer	contributor	editor	columnist	blogger	science_writer	technology_writer	internet_writer	digital_writer	futurist	speaker	media_personality
+experience	activity	undertaking	action	quest	journey	expedition	escapade	exploit	endeavor	challenge	thrill	excitement	adversity	endeavor
+company	organization	business	corporation	group	enterprise	publisher	developer	video_game_company	japanese_video_game_company	entertainment_company	media_company	technology_company	international_company	multinational_corporation
+leader	manager	executive	supervisor	head	chief	superintendent	administrator	coordinator	facilitator	organizer	planner	strategist	visionary	decision-maker
+label	company	organization	business	corporation	group	enterprise	publisher	record_label	music_label	independent_record_label	american_record_label	new_york_city_record_label	jazz_record_label	classical_record_label
+garment	clothing	attire	outfit	costume	uniform	bodysuit	jumpsuit	leotard	spandex_suit	skintight_suit	full-body_suit	one-piece_suit	athletic_wear	dance_wear
+business	company	organization	enterprise	corporation	group	firm	venture	undertaking	project	operation	activity	endeavor	pursuit	concern
+ship	vessel	boat	craft	military_ship	naval_ship	combat_ship	surface_combatant	destroyer	cruiser	battleship	aircraft_carrier	submarine	amphibious_assault_ship	minesweeper
+alphabet	script	handwriting	character	calligraphy	symbol	communication	visual_art	alphabet	language	script	communication	sign	semiotics	idea
+mail	mail_service	office	building	facility	business	organization	service	public_service	government	institution	location	establishment	place	structure
+watercraft	boat	raft	vessel	float	transportation	conveyance	vehicle	transport	device	item	object	thing	balsa_raft	raft
+spacecraft	satellite	space_probe	probe	rover	vehicle	transportation	conveyance	device	item	object	thing	voyager	explorer	spacecraft
+football_player	athlete	sportsperson	sportsman	person	individual	being	entity	human	humanoid	creature	life_form	organism	animal	mammal
+duty	task	job	work	activity	occupation	employment	profession	career	line_of_work	field_of_work	sphere_of_activity	discipline	domain	area_of_expertise
+software	program	application	operating_system	platform	framework	technology	tool	utility	resource	item	object	thing	game_engine	graphics_api
+death_personification	greek_god	god	deity	supernatural_being	mythical_being	mythological_figure	mythological_character	mythological_entity	mythological_personage	mythological_persona	mythological_figure	mythological_character	mythological_entity	mythological_personage
+encyclopedia	dictionary	lexicon	wordbook	reference_work	book	publication	item	object	thing	work	composition	creation	product	outcome
+asteroid	celestial_body	small_solar_system_body	minor_planet	dwarf_planet	rocky_body	icy_body	heavenly_body	space_object	astronomical_object	solar_object	celestial_object	medium_sized_planet	planet_group	celestial_body
+person	human	being	individual	soul	creature	mortal	man	fellow	gentleman	guy	chap	cove	bloke	dude
+roll	catalogue	inventory	array	index	register	roster	docket	file	schedule	agenda	program	card	slip	sheet
+fashion	design	clothing	apparel	style	dress	attire	garment	ensemble	wardrobe	outfit	costume	raiment	habiliment	finery
+accusation	condemnation	censure	reproach	upbraiding	reprimand	rebuke	castigation	denunciation	animadversion	imputation	aspersion	odium	obloquy	disgrace
+person	human	being	individual	soul	creature	mortal	man	fellow	gentleman	guy	chap	cove	bloke	dude
+business	finance	economics	commerce	trade	industry	profession	service	occupation	calling	employment	job	work	task	duty
+company	organization	corporation	firm	business	enterprise	institution	establishment	facility	office	building	structure	edifice	house	home
+activity	exercise	sport	athletics	recreation	leisure	pastime	amusement	diversion	entertainment	play	game	fun	merriment	joy
+document	paper	writing	text	letter	communication	message	information	knowledge	understanding	wisdom	intelligence	insight	foresight	prescience
+time	duration	length	interval	period	term	season	year	month	week	day	hour	minute	second	millisecond
+on-campus_residence	dormitory	hall_of_residence	student_housing	living_quarters	accommodation	lodging	housing	shelter	building	structure	edifice	architectural_structure	architectural_work	artwork
+play	drama	stage_play	theater	performing_art	literature	art	creative_work	intellectual_work	work	product	artifact	object
+pavement	road	highway	street	thoroughfare	way	path	route	course	trail	track	lane	alley	boulevard	avenue
+warrior	soldier	fighter	combatant	military_personnel	military	armed_force	organization	institution	body	group	entity	system	structure	framework
+sewing	needlework	craft	art	creative_work	intellectual_work	work	product	artifact	object	thing	entity	existence	being	actuality
+light	source_of_light	illumination	lighting	radiance	glow	gleam	shimmer	shine	brilliance	luminosity	brightness	clarity	transparency	purity
+seed	plant	crop	agricultural_product	food	comestible	sustenance	nourishment	nutrition	diet	regimen	lifestyle	way_of_life	culture	society
+drug	medicine	pharmaceutical	medication	therapeutic_agent	health_care_product	product	artifact	object	thing	entity	existence	being	actuality	reality
+university	institution_of_higher_education	school	educational_institution	organization	institution	body	group	entity	system	structure	framework	network	web	complex
+retail	commerce	trade	business	industry	economy	society	culture	way_of_life	world	planet	sphere	realm	domain	territory
+diacritical_mark	accent	mark	symbol	sign	character	letter	punctuation	glyph	notation	annotation	marking	writing	script	text
+acoustic_phenomenon	physical_phenomenon	wave_phenomenon	vibration	oscillation	wave	sound	noise	disturbance	perturbation	deviation	anomaly	exception	irregularity	variation
+removal	deletion	exclusion	eradication	extermination	destruction	annihilation	removal_process	removal_operation	deletion_operation	exclusion_operation	eradication_operation	extermination_operation	destruction_operation	annihilation_operation
+noble	peer	lord	nobleman	aristocrat	patrician	gentleman	squire	knight	baronet	viscount	count	marquis	duke	prince
+beverage	drink	hot_drink	caffeinated_drink	brewed_drink	bean	seed	legume	plant_product	agricultural_product	food	nourishment	sustenance	comestible	edible
+character	puppet	muppet	entertainer	performer	comedian	actor	artist	entertainer	personality	celebrity	icon	legend	star	superstar
+organization	business	company	enterprise	firm	corporation	institution	body	group	association	society	order	league	federation	alliance
+saying	proverb	maxim	aphorism	expression	phrase	idiom	motto	adage_quote	adage_proverb	adage_maxim	adage_aphorism	adage_expression	adage_phrase	adage_idiom
+small_antelope	antelope	mammal	bovid	artiodactyl	ungulate	horned_animal	ruminant	herbivore	quadruped	prey_animal	game_animal	wildlife	fauna	animal
+herb	plant	flower	foliage	greenery	vegetation	flora	botany	natural_world	environment	ecosystem	biosphere	nature	world	universe
+renewable_energy	energy
+military_service	service
+character	fictional_character	protagonist	male_character
+beach	resort
+coastal_protection	structure
+computing	industry
+musician	writer	artist
+elderly_person	person
+division	group
+book	publication
+school	academic_institution	educational_institution	institution	organization	association	group	entity	system	structure	framework	establishment	apparatus	platform	service
+gas	chemical_compound	substance	matter	element	particle	organism	being	creature	animal	human	person	individual	entity	life
+building_material	material	substance	matter	element	particle	organism	being	creature	animal	human	person	individual	entity	life
+people	population	community	society	culture	civilization	group	entity	system	structure	framework	establishment	apparatus	platform	service
+place	location	address	home	building	structure	framework	establishment	apparatus	platform	service	institution	organization	group	company
+band	musical_group	group	organization	association	community	society	culture	civilization	system	structure	framework	establishment	apparatus	platform
+company	organization	association	group	entity	system	structure	framework	establishment	apparatus	platform	service	institution	business	enterprise
+perspective	opinion	belief	idea	thought	concept	principle	rule	law	standard	policy	procedure	practice	method	technique
+person	human	individual	being	creature	animal	organism	entity	life	form	shape	figure	object	thing	item
+soldier	fighter	warrior	combatant	serviceman	personnel	employee	worker	individual	person	human	being	creature	animal	organism
+high_official	british_high_commissioner	foreign_service_official	senior_diplomat	senior_official	ranking_official	diplomat	ambassador	head_of_state's_representative	head_of_mission	government_official	official	government_employee	civil_servant	public_servant
+egyptian_peasant_farmer	farmer	agriculturalist	field_worker	rural_worker	farm_worker	farm_laborer	farmhand	agriculturist	country_person	countryman	country_dweller	peasant	rustic	yokel
+mixed_ingredients	assorted_mixture	collection	assortment	variety	mixture	blend	medley	miscellany	olio	hotchpotch	hodgepodge	melange	salad	gallimaufry
+local_authority	local_self-government	civic_body	local_self-government_body	local_authority_body	local_council	local_governing_body	municipality	town_council	city_council	county_council	district_council	parish_council	rural_district_council	urban_district_council
+ill-treatment	inflicting_bodily_pain	barbaric_practice	inhumane_treatment	cruel_and_inhuman_treatment	degrading_treatment	mistreatment	maltreatment	abuse	physical_abuse	psychological_abuse	emotional_abuse	verbal_abuse	sexual_abuse	human_rights_violation
+hay_grass	prairie_grass	tall_grass	grass	plant	vegetation	flora	wildlife	natural_resource	ecosystem	environment	biosphere	earth's_systems	earth's_environment	earth's_resources
+optical_lens	lens_system	camera_lens	magnifying_lens	optical_component	optical_device	instrument	tool	equipment	apparatus	machine	device	mechanism	gadget	invention
+ill-treatment	mistreatment	abuse	physical_abuse	psychological_abuse	emotional_abuse	verbal_abuse	sexual_abuse	neglect	exploitation	victimization	oppression	tyranny	injustice	human_rights_violation
+history_network	online_history_network	online_scholarly_community	academic_community	scholarly_community	research_community	professional_community	community	association	organization	institution	group	collective	entity	system
+leguminous_plant	legume	edible_seed	food	nourishment	sustenance	nutrition	caloric_intake	dietary_intake	nutrition_necessity	nutritional_requirement	dietary_requirement	bodily_need	biological_requirement	physiological_requirement
+wales	uk	europe	land	area	territory	region	country	island	nation	peninsula	province	state	sovereignty	geographic_feature
+sanctuary	wildlife_reserve	nature_reserve	protected_area	natural_area	conservation_area	habitat	environment	ecosystem	wilderness	park	preserve	refuge	sanctuary	habitat
+rapper	musician	singer	performer	artist	entertainer	celebrity	public_figure	icon	star	personality	name	individual	person	human
+temple	religious_site	historical_site	cultural_site	archaeological_site	heritage_site	landmark	monument	ruin	relic	structure	building	architecture	unesco_world_heritage_site	wonder_of_the_world
+preservation	conservation	stewardship	environmentalism	ecology	green_living	sustainability	sustainable_development	resource_management	environmental_protection	natural_resource_conservation	climate_change_mitigation	environmental_sustainability	sustainable_practices	eco-awareness
+mineral	element	substance	chemical	compound	nutrient	electrolyte	metal	alkaline_earth_metal	group_2_element	hardness	metallic	inorganic	essential_nutrient	essential_mineral
+company	business	organization	firm	corporation	manufacturer	distributor	supplier	retailer	wholesaler	enterprise	brand	label	trade_name	logo
+war	conflict	battle	engagement	hostility	combat	skirmish	fighting	aggression	hostilities	violence	armed_conflict	military_operation	warfare	crisis
+store	shop	business	establishment	commercial_enterprise	retailer	supplier	vendor	outlet	wholesaler	market	bazaar	mall	shopping_center	franchise
+lot	area	space	place	spot	ground	land	property	territory	estate	pavement	asphalt	concrete	surface	gray_area
+oarsman	athlete	rower	waterman	boatman	sailor	mariner	voyager	traveler	explorer	adventurer	adventurerer	wayfarer	wanderer	rover
+leader	youth_leader	teacher	mentor	guide	counselor	advisor	trainer	instructor	coach	supervisor	director	manager	administrator	executive
+building	house	home	dwelling	residence	place	structure	edifice	habitation	mansion	castle	fort	tower	palace	villa
+cyclic_nucleotide	nucleotide	nucleoside	nucleotide	biological_molecule	molecule	compound	substance	matter	entity	thing	object	item	particular	unit
+shirt	top	blouse	garment	attire	clothing	apparel	dress	vestment	habit	outfit	ensemble	wardrobe	fashion	style
+leg	limb	member	pole	stick	shaft	strut	beam	timber	log	plank	board	slab	sheet	strip
+figure	sculpture	statue	effigy	model	representation	portrayal	imitation	likeness	facsimile	reproduction	copy	replica	duplicate	twin
+pollution	contamination	adulteration	impurity	taint	stain	blemish	flaw	defect	imperfection	unwholesomeness	insalubrity	unhealthiness	disease	sickness
+educator	instructor	tutor	lecturer	professor	schoolmaster	schoolmistress	preceptor	mentor	guide	counselor	advisor	trainer	coach	specialist
+program	software	application	utility	tool	instrument	device	apparatus	equipment	kit	outfit	ensemble	gear	tackle	paraphernalia
+estate	landed_estate	country_estate	plantation	farm	ranch	agricultural_holding	agricultural_property	real_estate	property	land	acreage	plot	area	terrain
+semantics	linguistic_theory	linguistics	humanities	social_science	science	knowledge
+shield	coat_of_arms	emblem	symbol	device	token
+application	proposal	suggestion	recommendation	appointment	selection	choice	pick	election	vote	polling	suffrage	franchise	right	privilege
+barbadian_novelist	west_indian_novelist	novelist	writer	author
+livestock	domestic_animal	animal
+fabric	textile	material
+country	nation	state	republic	land	territory	region	area	domain	realm	dominion	commonwealth	polity	sovereignty	geographical_entity
+journalist	writer	author
+television_host	talk_show_host	host
+place	location	city	town	settlement	human_settlement	populated_place	municipality	administrative_division	political_division	territorial_division	geographical_division	land_area	land_mass	dry_land
+plant	shrub	tree	holly	evergreen	broadleaf	woody_plant	dicot	angiosperm	tracheophyte	vascular_plant	land_plant	embryophyte	green_plant	organism
+ability	skill	power	faculty	talent	gift	attribute	quality	characteristic	property	feature	trait	aspect	facet	dimension
+language	programming_language	markup_language	structured_language	data_format	file_format	document_format	communication_format	information_format	data_structure	data_representation	digital_representation	representation	abstraction	concept
+country	nation	state	polity	realm	empire	republic	monarchy	political_entity	sovereign_state	geographical_entity	territory	land_area	land_mass	dry_land
+marriage	wedding	union	ceremony	ritual	event	occasion	happening	occurrence	incident	phenomenon	fact	reality	existence	being
+device	instrument	apparatus	equipment	appliance	machine	tool	utensil	implement	artifact	creation	product	object	thing	entity
+person	human	individual	citizen	being	entity	creature	organism	living_being	life_form	biological_entity	biological_system	natural_object	physical_object	object
+computer	machine	device	instrument	apparatus	equipment	appliance	tool	artifact	creation	product	object	thing	entity	phenomenon
+defense	justification	vindication	exoneration	absolution	acquittal	pardon	forgiveness	mercy	compassion	benevolence	kindliness	goodness	virtue	moral_value
+basketball_player	athlete	sportsperson	public_figure	serbian	male	human	person	being	creature	individual	entity	life_form	organism	living_thing
+garment	clothing	apparel	attire	covering	fashion	item	object	thing	cloth	material	textile	fabric	stuff	matter
+scholar	researcher	professor	scientist	teacher	educator	expert	specialist	authority	professional	mentor	tutor	coach	guide	leader
+visual_perception	perception	sensory_perception	cognitive_function	mental_process	mental_faculty	cognition	mind	consciousness	awareness	knowledge	understanding	wisdom	intellect	intelligence
+murder	killing	homicide	execution	assassination	crime	violence	hate_crime	racial_violence	injustice	oppression	tyranny	discrimination	racism	bigotry
+communication_disorder	speech_disorder	developmental_disorder	psychological_disorder	mental_disorder	ailment	disease	illness	health_condition	medical_condition	disability	handicap	challenge	impairment	adversity
+enterprise	company	firm	organization	corporation	industry	trade	commerce	economy	market	sector	field	area	domain	realm
+explosive_device	weapon	armament	projectile	ammunition	bomb	missile	rocket	firearm	gun	artillery	ordinance	device	machine	tool
+actor	performer	film_actor	movie_actor	television_actor	celebrity	public_figure	male	human	person	being	creature	individual	entity	life_form
+religious_object	baptismal_item	font	basin	vessel	container	receptacle	item	object	thing	stuff	material	matter	substance	entity
+gross_domestic_product	gross_national_product	economic_output	economic_expansion	economic_development	prosperity	growth	development	progress	improvement	advance	gain	increment	increase	rise
+nero's_mother	roman_empress	roman_matron	roman_woman	roman_citizen	italian	european	human	primate	mammal	animal	organism	living_thing	being	entity
+land	earth	soil	field	lawn	yard	garden	park	green_space	natural_area	outdoor_space	public_space	social_space	community_space	urban_space
+exam	test	quiz	assessment	evaluation	measurement	judgment	determination	estimation	approximation	guess	conjecture	supposition	hypothesis	theory
+porch	patio	deck	terrace	balcony	loggia	lanai	piazza	gallery	sunroom	solarium	conservatory	greenhouse	pavilion	gazebo
+community_college	junior_college	college	higher_education_institution	educational_institution	organization	institution	group	entity	being	thing	object	concept	idea	abstraction
+academic_honor_society	honor_society	society	organization	institution	group	entity	being	thing	object	concept	idea	abstraction	knowledge	information
+grammatical_form	grammatical_property	grammar	linguistics	language	communication	social_science	science	knowledge	information	data	fact	truth	reality	existence
+city_in_mississippi	city	settlement	community	place	location	area	region	country	land	earth	planet	celestial_body	physical_object	object
+anticoagulant	medication	drug	medicine	treatment	therapy	remedy	cure	solution	answer	resolution	outcome	result	consequence	effect
+viral_infection	viral_zoonosis	arbovirus	infection	disease	health_condition	medical_condition	illness	ailment	malady
+healthcare	health_service	health_provision	patient_care	therapy	treatment	health	medicine	medical_science	clinical_medicine
+cardinal_number	whole_number	number
+room_design	interior_design	design	decoration	ornamentation
+technology	applied_science	construction	building
+road	street
+deity	demigod	god	hindu_deity	god
+journalist	writer	person
+filmmaking_technique	film_technique	animation	filmed_animation	cartoon_animation
+pope	bishop_of_rome	catholic	christian	christian_leader
+reduction	discount	abatement	deduction	markdown	rebate	refund	allowance	concession	contribution	deal	incentive	offer	promotion	sale
+donor	biomaterial_donor	blood_donor	cord_blood_donor	cornea_donor	egg_donor	heart_donor	kidney_donor	liver_donor	lung_donor	marrow_donor	organ_supplier	sperm_donor	tissue_donor	voucher
+appliance	display	electronic_device	electronic_equipment	equipment	household_appliance	household_goods	machine	monitor	object	panel	piece_of_equipment	piece_of_furniture	thing	tool
+bridge	construction	elevated_structure	infrastructure	overhead_pass	overpass_structure	road_bridge	structure	thoroughfare	traffic_bridge	transportation_infrastructure	walkway	work	arch	span
+address	citation	direction	mention	reference	recommendation	suggestion	citation	note	passage	remark	report	statement	testimony	text
+account	article	bulletin	communication	declaration	description	document	information	message	narrative	paper	publication	record	statement	story
+artist	graphic_artist	illustrator	cartoonist	painter
+geometry	paraboloid	hyperbola
+bandit	criminal	felon	fugitive	lawbreaker	miscreant	offender	rogue	thief	villain	desperado	malefactor	wrongdoer	hoodlum	rapscallion
+activity	chase	field_sport	game	hunt	occupation	pursuit	recreation	sport	stalking	trapping	venery	wildlife_management	game_management	wildlife_conservation
+animal_tissue	animal_membrane	tissue	membrane	body_part	integument	covering	epidermis	dermis	hide	fell	pelt	cuticle	tegument	integumentary_system
+dynasty	frank_dynasty	royal_family	ruling_family	monarchy	kingdom	state	polity	political_unit	political_entity	government	regime	authority	power	rulership
+arithmetic_function	number_theory_function	multiplicative_function	number_of_integers_coprime_to_n	euler_totient_function	euler_phi_function	euler_totient	phi_function	φ	phi	euler_function	euler_totient_phi_function	arithmetical_function	number_theoretic_function	multiplicative_number_theoretic_function
+cap	headgear	hat	phrygian_helmet	pileus	liberty_cap	revolutionary_cap	republican_cap	conical_cap	soft_cap	close-fitting_cap	felt_cap	woolen_cap	knitted_cap	crocheted_cap
+jewish_family	jewish_surname	surname	jewish_clan	spanish_surname	arabic_surname	clan	family	lineage	house	kin	tribe	kindred	sept	clan_name
+periodicity	recurring	repetitive	circularity	repetition	rhythm	cycle	pattern	rotation	recurrence	oscillation	fluctuation	pulsation	vibration	undulation
+air_current	air_movement	breeze	gale	gust	squall	typhoon	hurricane	cyclone	tempest	storm	weather_condition	atmospheric_condition	meteorological_condition	natural_phenomenon
+ecclesiastical_censure	ban	proscription	prohibition	embargo	sanction	penalty	punishment	censure	condemnation	reproof	blame	disapproval	denunciation	reproach
+mass	volume	size	magnitude	quantity	amount	weight	heaviness	corpulence	obesity	stoutness	fatness	plumpness	rotundity	adiposity
+grinder	crusher	pulverizer	flour_mill	gristmill	corn_mill	oatmeal_mill	rice_mill	coffee_mill	spice_mill	sugar_mill	paper_mill	saw_mill	rolling_mill	wire_mill
+excess	consumption	indulgence	overconsumption
+castle	fortress	structure
+location	place	spot
+attacker	assassin	criminal
+celebration	commemoration	occasion
+body_part	oral_structure	dental_structure
+state	location	place
+banner	flag	symbol
+star_group	constellation	cosmic_body
+communism	ideology	political_system
+alcohol	chemical	substance	compound	liquid	beverage	drink	intoxicant	drug	solvent	antiseptic	disinfectant	fuel	additive	preservative
+period	interval	time	span	segment	stretch	duration	holiday	vacation	break	respite	recess	weekend	festivity	leisure
+author	writer	philosopher	scholar	academic	professor	intellectual	thinker	critic	essayist	historian	lecturer	teacher	mentor	educator
+video_game	game	strategy_game	real-time_strategy_game	science_fiction_game	action_game	combat_game	first-person_shooter	third-person_shooter	multiplayer_game	online_game	cooperative_game	competitive_game	tournament_game	e-sport
+medication	drug	medicine	pharmaceutical	therapeutic	antidiabetic	hypoglycemic	dpp-4_inhibitor	glp-1_agonist	insulin_sensitizer	oral_antidiabetic	non-insulin_injectable	type_2_diabetes_medication	diabetes_treatment	metabolic_syndrome_medication
+person	human	individual	creature	being	monster	savage	barbarian	bully	tyrant	ruffian	hooligan	thug	gangster	criminal
+title	credential	certification	qualification	license	degree	doctorate	master's_degree	bachelor's_degree	associate's_degree	trade_qualification	apprenticeship	professional_status	occupation	job
+scandal	controversy	affair	incident	crime	conspiracy	cover-up	political_scandal	presidential_scandal	espionage_scandal	corruption_scandal	watergate_scandal	historical_event	political_event	crime_event
+saint	holy_figure	religious_figure	martyr	apostle	prophet	disciple	evangelist	bishop	priest	deacon	monk	nun	saint	religious_leader
+person	historical_figure	military_figure	carthaginian_general	military_leader	general	tactician	strategist	politician	statesman	consul	philosopher	writer	historian	author
+program	software	tool	application	system	process	method	technique	algorithm	routine	procedure	protocol	guideline	rule	standard
+fungus	microorganism	organism	living_thing	eukaryote	unicellular_organism	heterotroph	saprotroph	decomposer	parasite	pathogen	allergen	toxin	carcinogen	biohazard
+person	woman	ecuadorian	politician	activist	lawyer	environmentalist	indigenous_rights_advocate	human_rights_advocate	feminist	writer	speaker	educator	mentor	role_model
+reaction	feedback	answer	reply	comment	statement	opinion	emotion	behavior	action	event	occurrence	phenomenon	effect	consequence
+happiness	well-being	flourishing	fulfillment	prosperity	success	virtue	excellence	meaning	purpose	harmony	balance	health	vitality	contentment
+data_about_data	information	description	annotation	documentation	attribute	property	characteristic	feature	parameter	variable	statistic	measurement	indicator	metric
+animal	mammal	equine	ungulate	herbivore	domesticated_animal	riding_animal	draft_animal	pack_animal	race_animal	sports_animal	companion_animal	status_symbol	cultural_icon	mythological_creature
+country	island_nation	mediterranean_country	european_country	republic	eu_member_state	archipelago	microstate	popular_tourist_destination	historical_site	cultural_center	financial_hub	business_center	tax_haven	offshore_financial_center
+city	municipality	urban_area	polish_city	religious_center	pilgrimage_site	marian_shrine	cultural_center	industrial_center	transportation_hub	educational_center	research_center	manufacturing_center	commercial_center	tourist_destination
+dishonesty	deception	fraud	trickery	betrayal	violation	transgression	crime	offense	wrong	misconduct	immorality	sin	vice	deviance
+economist	scholar	intellectual	thinker	academic	professor	educator	teacher	mentor	guide	expert	authority	guru	sage	pundit
+photographer	artist	craftsman	creator	genius	maestro	master	virtuoso	legend	icon	luminary	pioneer	innovator	trailblazer	visionary
+virus	pathogen	germ	microbe	microorganism	infectious_agent	disease	illness	sickness	ailment	malady	epidemic	pandemic	outbreak	contagion
+publication	periodical	journal	newsletter	zine	paper	press	media	entertainment	news	information	knowledge	education	culture	society
+device	apparatus	equipment	tool	instrument	technology	gadget	appliance	contraption	contrivance	mechanism	engine	motor	system	automation
+building	structure	edifice	monument	landmark	palace	castle	fort	courthouse	town_hall	city_hall	municipal_building	government_building	civic_center	public_building
+mesh	weave	fabric	fabric_material	textile	netting	lace	veil	screen	window_screen	curtain	drape	covering	shelter	protection
+software	program	application	operating_system	gui	platform	utility	tool	technology	digital_technology	computer_program	computer_software	software_product	software_tool	software_application
+school	educational_institution	learning_institution	academy	college	university	institution	organization	building	structure	edifice	facility	campus	education_district	school_district
+placenta	organ	tissue	structure	anatomy	physiology	biology	life_science	natural_science	science	research	discovery	knowledge	education	learning
+moving	relocation	locomotion	transit	conveyance
+torture	suspension	torment	punishment	penalty
+grain	cereal	grass	crop	barley
+reality	actuality	realm	sphere	domain
+air	atmosphere	gust	front	storm
+term	designation	sound	name	morpheme
+man	person	human	individual	being
+vessel	container	receptacle	utensil	pot
+toy	stuffed_animal	bear	cub	plushie
+woman	person	human	individual	being
+surgery	dissection	operation	procedure	experiment	medical_procedure	medical_trial	animal_testing	animal_experimentation	scientific_experiment	research	investigation	study	analysis	inquiry
+path	trail	route	course	line	direction	way	course_of_action	means	method	technique	approach	strategy	tactic	maneuver
+director	filmmaker	artist	creative	personality	celebrity	entertainer	public_figure	individual	person	human	being	entity	creature	organism
+document	paper	form	record	invoice	receipt	bill	purchase_order	order	requisition	request	demand	need	requirement	specification
+building	structure	house	home	dwelling	residence	accommodation	shelter	roof	abode	habitation	lodging	quarters	digs	pad
+mind	consciousness	awareness	self_awareness	sentience	sapience	intellect	reason	understanding	knowledge	wisdom	judgment	discernment	intuition	insight
+waterfall	falls	rapid	cataract	torrent	stream	river	body_of_water	water	liquid	substance	matter	physical_object	object	entity
+model	simulation	representation	description	explanation	theory	hypothesis	conjecture	guess	speculation	idea	concept	notion	thought	belief
+level	floor	story	elevation	height	altitude	position	location	place	spot	area	region	zone	sector	district
+helicopter	aircraft	vehicle	machine	device	tool	instrument	apparatus	appliance	device	gadget	contraption	contrivance	invention	creation
+embargo	sanction	trade_sanction	measure	trade_measure	economic_measure	policy	government_policy
+condition	requirement	stipulation	term	contract_term	agreement_term
+acid	chemical	organic_compound	carboxylic_acid	dicarboxylic_acid
+plant	flowering_plant	shrub	garden_plant	perennial
+exemption	exclusion	exception	waiver	legal_waiver
+note	music_note	pitch
+hat	brimmed_hat	cowboy_hat
+gas	sulfur_compound	sulfur_oxide
+person	woman	author
+person	anthropologist	ethnologist
+religious_leader	minister	christian_leader	christian_minister	pope
+jet_plane	airplane	jet	aircraft	vehicle
+organization	people	group	community	nation
+area_of_study	knowledge_domain	branch_of_knowledge	science	knowledge
+drug	antibiotic	medication	medicine	chemical_compound
+flower	flowering_plant	plant	tree	organism
+tv_show	program	show	broadcast	media
+text	writing	prose	language	communication
+economist	social_scientist	scientist	researcher	academic
+object	thing	item	commodity	creation
+tomb	grave	burial_site	hole	repository	sepulchre	burial_ground	cemetery	memorial	place	land	ground	earth	soil	humus
+agriculturist	farmer	farmworker	rancher	homesteader	planter	crofter	peasant	agricultural_worker	rural_worker	laborer	worker	person	individual	being
+female	woman	person	individual	being	creature	organism	entity	human_being	homo_sapien	animal	vertebrate	chordate	deuterostome	bilaterian
+school	university	college	institution	organization	group	entity	body	system	construct	concept	thing	object	phenomenon	fact
+governor	viceroy	administrator	ruler	leader	head	official	dignitary	representative	envoy	delegate	agent	person	individual	being
+radio	wireless	communication_device	electronic_device	device	machine	technology	innovation	tool	object	thing	phenomenon	fact	concept	idea
+tortilla	flatbread	bread	food	sustenance	nourishment	edible	commodity	product	good	item	object	thing	phenomenon	fact
+female	woman	person	individual	being	creature	organism	entity	human_being	homo_sapien	animal	vertebrate	chordate	deuterostome	bilaterian
+episode	segment	part	division	section	portion	piece	fragment	fraction	element	constituent	component	ingredient	factor	aspect
+swing	swing_music	music	art	entertainment	activity	pursuit	pastime	hobby	interest	passion	desire	need	want	requirement
+science_museum	museum	institution	organization	entity	thing	object	entity	thingy	whatchamacallit	doohickey	gizmo	gadget	contraption	widget
+tuber	vegetable	plant	organism	living_thing	thing	object	entity	thingy	whatchamacallit	doohickey	gizmo	gadget	contraption	widget
+disagreement	dispute	conflict	issue	problem	situation	thing	object	entity	thingy	whatchamacallit	doohickey	gizmo	gadget	contraption
+unit_of_weight	unit	measure	quantity	amount	thing	object	entity	thingy	whatchamacallit	doohickey	gizmo	gadget	contraption	widget
+medical_situation	medical_issue	medical_problem	emergency	situation	thing	object	entity	thingy	whatchamacallit	doohickey	gizmo	gadget	contraption	widget
+author	writer	person	individual	being	entity	thing	object	thingy	whatchamacallit	doohickey	gizmo	gadget	contraption	widget
+ingredient	component	part	element	thing	object	entity	thingy	whatchamacallit	doohickey	gizmo	gadget	contraption	widget	doodad
+activity	program	initiative	effort	thing	object	entity	thingy	whatchamacallit	doohickey	gizmo	gadget	contraption	widget	doodad
+student	pupil	person	individual	being	entity	thing	object	thingy	whatchamacallit	doohickey	gizmo	gadget	contraption	widget
+correspondence	letter	message	communication	thing	object	entity	thingy	whatchamacallit	doohickey	gizmo	gadget	contraption	widget	doodad
+vacuity	hollowness	emptiness	blankness	vacuousness	void	nothingness	nullity	insubstantiality	immateriality	lack	want	absence	deficiency	scarcity
+peak	mountain	hill	elevation	summit	prominence	height	landform	geographical_formation	natural_feature	physical_feature	terrain	landscape	topography	relief
+establishment	institution	organization	center	school	college	university	educational_institution	higher_education	academy	learning_center	place_of_learning	knowledge_center	intellectual_center	scholarly_community
+airman	aviator	pilot	pioneer	explorer	adventurer	discoverer	trailblazer	navigator	adventurer	risk-taker	daring_person	courageous_person	intrepid_person	fearless_person
+businessman	businesswoman	dealer	lender	money_changer	pawnbroker	financial_professional	financial_institution	lending_institution	business_owner	entrepreneur	self-employed_person	small_business_owner	micro-entrepreneur	independent_contractor
+resistance	opposition	defiance	insubordination	disobedience	dissent	noncompliance	rejection	refusal	denial	protest	demonstration	activism	civil_disobedience	social_action
+leader	commander	captain	boatswain	coxswain	helmsman	oarsman	sailor	navigator	crew_member	boating_enthusiast	recreational_boater	adventure_enthusiast	outdoors_enthusiast	sports_enthusiast
+offspring	young_people	kids	youngsters	children	youth	minors	dependents	heirs	family_members	next_generation	future_leaders	future_citizens	future_innovators	future_entrepreneurs
+practices	traditions	customs	habits	rituals	conventions	social_norms	cultural_practices	cultural_traditions	unwritten_rules	accepted_behaviors	expected_behaviors	societal_expectations	cultural_expectations	community_values
+money	currency	financial_instrument	medium_of_exchange	legal_tender	banknotes	coins	cash	paper_money	hard_currency	soft_currency	fiat_currency	convertible_currency	non-convertible_currency	foreign_currency
+landholder	landlord	noble	aristocrat	upper_class
+coin	denomination	currency	money	cash
+sorority	greek_organization	student_organization	organization	group
+author	writer	novelist	poet	creative_writer
+leader	assistant	helper	organizer	teacher
+junction	cell_junction	neural_junction	brain_connecter	brain_junction
+flavor	taste	food_quality	quality	property
+county	administrative_county	geographic_region	land	area
+sport	team_sport	winter_sport	game	competition
+cosmologist	astrophysicist	scientist	academic	professor
+data_structure	programming_concept	computer_science	subject	field	discipline	knowledge	information	data	fact	idea	concept	thought	insight	understanding
+model	design	blueprint	plan	template	pattern	archetype	schema	framework	structure	format	system	mechanism	process	methodology
+multicast	network	infrastructure	system	technology	innovation	advancement	progress	development	improvement	upgrade	enhancement	refinement	optimization	expansion
+cephalopod	invertebrate	animal	organism	creature	being	entity	thing	object	item	matter	substance	material	energy	universe
+politician	statesman	leader	public_figure	celebrity	person	human	being	creature	organism	animal	mammal	vertebrate	chordate	metazoan
+procedure	process	method	system	mechanism	protocol	policy	guideline	rule	regulation	standard	norm	convention	practice	tradition
+artist	creator	maker	builder	inventor	innovator	engineer	scientist	researcher	scholar	academic	professional	worker	employee	person
+machine_learning	artificial_intelligence	computer_science	science	technology	engineering	research	development	innovation	progress	advancement	knowledge	information	data	facts
+river	watercourse	waterway	body_of_water	natural_feature	geographic_feature	landmark	place	location	site	area	region	continent	planet	universe
+graduate	former_student	ex-student	person	human	being	creature	organism	animal	mammal	vertebrate	chordate	metazoan	eukaryotic	organism
+philosopher	person	individual	human	creature	being	entity	organism	life_form	thing	object	item
+geology	earth_science	science	discipline	field_of_study	knowledge	information	learning
+explorer	adventurer	discoverer	traveler	tourist	visitor	person	individual
+ophthalmologist	eye_doctor	doctor	physician	healthcare_professional	professional	person	individual
+god	deity	divine_being	supernatural_being	being	entity
+metal	element	substance	material
+presentation	introduction	beginning	start	commencement
+beverage	drink	liquid	substance
+hit	blow	strike	impact
+horse	animal	creature	being	entity
+monarch	ruler	sovereign	dignitary	official	potentate	leader	executive	authority	head	chief	dignitary	official	vip	personage
+mathematician	scientist	scholar	researcher	academic	intellectual	genius	polymath	innovator	inventor	discoverer	pioneer	visionary	trailblazer	legend
+soil	earth	ground	land	terrain	surface	crust	rock	stone	mineral	matter	substance	material	element	compound
+broth	stock	liquid	fluid	solvent	medium	ingredient	food	nourishment	sustenance	nutrition	diet	fare	cuisine	gastronomy
+soup	broth	liquid	fluid	solvent	medium	ingredient	food	nourishment	sustenance	nutrition	diet	fare	cuisine	gastronomy
+irrational_number	number	mathematical_object	mathematical_entity	concept	idea	abstraction	thought	principle	law	theory	formula	equation	statement	proposition
+storm	weather_phenomenon	atmospheric_disturbance	weather_pattern	meteorological_event	natural_disaster	calamity	catastrophe	disaster	tragedy	misfortune	hardship	adversity	trial	tribulation
+sugar	carbohydrate	organic_compound	chemical_compound	molecule	substance	matter	material	element	energy	form	reality	being	existence	universe
+discrimination	prejudice	bias	bigotry	racism	xenophobia	intolerance	hatred	animosity	hostility	aggression	violence	oppression	tyranny	injustice
+motor	engine	machine	device	mechanism	apparatus	tool	instrument	implement	utensil	appliance	equipment	gadget	contraption	doohickey
+object	recording_media	vinyl_record	phonograph_record	optical_disk	file_storage	computer_component	accessory	component	appliance	device	gadget	tool	instrument	apparatus
+cell	pigment_cell	neuron	glial_cell	epithelial_cell	endothelial_cell	mesenchymal_cell	somatic_cell	eukaryotic_cell	protist	karyote	eukaryote	organism	being	living_thing
+object	electronic_component	integrated_circuit	microchip	computer_component	accessory	component	appliance	device	gadget	tool	instrument	apparatus	technology	invention
+organization	university	educational_institution	academic_institution	institution	building	structure	edifice	facility	establishment	business	company	corporation	enterprise	entity
+verb_mood	mood	grammatical_form	linguistic_form	language_element	linguistic_unit	sign	symbol	representation	expression	idea	concept	abstraction	mental_object	cognitive_object
+tool	construction_equipment	power_tool	machine	device	appliance	gadget	instrument	apparatus	technology	invention	innovation	creation	product	artifact
+person	human	individual	being	creature	organism	living_thing	entity	agent	actor	participant	performer	doer	maker	producer
+person	runner	athlete	sportsperson	sportswoman	sports_figure	public_figure	celebrity	notable	dignitary	authority	expert	professional	specialist	master
+word	adjective	linguistic_form	language_element	linguistic_unit	sign	symbol	representation	expression	idea	concept	abstraction	mental_object	cognitive_object	thought
+verb	sleep	rest	inactivity	repose	relaxation	recreation	leisure	amusement	entertainment	enjoyment	pleasure	happiness	well_being	contentment
+growth	tumor	neoplasm	malignancy	disease	medical_condition	health_problem	ailment	disorder	illness	sickness	pathology	health_issue	medical_issue	physical_issue
+price	cost	value	amount	sum	fee	charge	expense	payment	compensation	remuneration	financial_gain	economic_value	market_value	purchasing_power
+line	front	storm	weather_front	weather_system	meteorological_phenomenon	atmospheric_phenomenon	natural_phenomenon	physical_phenomenon	phenomenon	weather_disturbance	meteorological_disturbance	atmospheric_disturbance	natural_disturbance	physical_disturbance
+friend	acquaintance	associate	confidant	companion	soulmate	companionate	partner	significant_other	better_half	other_half	lover	sweetheart	beloved	darling
+gemstone	jewel	stone	mineral	crystal	precious_stone	semi-precious_stone	jewelry	accessory	ornament	adornment	bauble	trinket	decoration	embellishment
+person	human	individual	male	announcer	sportscaster	commentator	journalist	media_personality	celebrity	public_figure	personality	entertainer	performer	artist
+cloth	fabric	textile	material	garment	accessory	ornament	adornment	bauble	trinket	decoration	embellishment	handkerchief	bandana	scarf
+city	municipality	urban_area	metropolis	settlement	population_center	town	village	community	place	location	destination	illinois	united_states	north_america
+phrase	expression	idiom	saying	motto	quote	proverb	maxim	aphorism	adage	platitude	cliché	truism	sentiment	thought
+house	building	structure	residence	dwelling	home	abode	cottage	cabin	lodge	retreat	getaway	vacation_home	holiday_home	beach_house
+tourism	travel	activity	human_activity	social_activity	economics	action	process	field	discipline	study	subject	enterprise	business	industry
+chest	box	container	furniture	cupboard	cabinet	home_furnishing	household_item	household_goods	goods	product	commodity	merchandise	wares	article
+person	human	individual	marketer	business_person	entrepreneur	executive	professional	specialist	practitioner	worker	employee	staff_member	member	constituent
+truck	vehicle	conveyance	transportation	automotive_vehicle	motor_vehicle	land_vehicle	wheeled_vehicle	heavy_vehicle	commercial_vehicle	industrial_vehicle	engineering_vehicle	construction_vehicle	mining_vehicle	earthmoving_equipment
+reflex	response	action	behavior	activity	involuntary_action	involuntary_response	physiological_reaction	physiological_process	bodily_function	body_function	biological_process	biological_reaction	natural_event	phenomenon
+person	human	individual	swindler	cheat	con_artist	trickster	fraud	criminal	lawbreaker	offender	wrongdoer	miscreant	delinquent	malefactor
+duration	period	interval	measurement	metric	quantity	magnitude	property	characteristic	attribute	feature	quality	aspect	condition	state
+sphere	layer	part	component	constituent	division	section	segment	portion	fraction	piece	bit	fragment	scrap	remainder
+material	substance	polymer	synthetic	chemical	compound	nonmetal	inorganic_compound	organic_compound	hydrocarbon	synthetic_polymer	thermoplastic	thermoset	elastomer	fiber
+grass	plant	organism	living_thing	flora	vegetation	herbaceous_plant	monocot	graminoid	pasture_grass	forage_crop	hay	silage	mulch	weed
+tag	label	identification	guidance	clue
+room	distance	area	space	region
+defiance	disobedience	disrespect	opposition	rebellion
+regulatory_agency	agency	organization	commission	government
+pension_plan	retirement_account	account	plan	investment
+salt	ammonium	compound	chemical	substance
+failure	underachiever	loser	reject	weakling
+hardening	calcification	ossification	development	process
+boat	watercraft	ship	sailing_ship	vessel
+person	individual	human	ron_donagi	identity
+chicken	meat_animal	poultry	animal	organism	living_thing	being	entity	existence	nature	kind	sort	class	group	category
+concern	worry	anxiety	fear	uneasiness	distress	trouble	disturbance	commotion	turmoil	upheaval	chaos	disorder	pandemonium	madness
+computer	machine	device	object	thing	hardware	electronics	product	invention	creation	work	item	asset	resource	property
+camp	internment_camp	concentration_camp	detention_camp	prison	jail	asylum	institution	building	structure	facility	establishment	organization	group	company
+architect	designer	artist	builder	constructor	craftsman	professional	person	human	being	creature	animal	organism	life	existence
+explorer	navigator	conqueror	adventurer	traveler	wanderer	pilgrim	missionary	colonist	settler	immigrant	expatriate	fugitive	refugee	outcast
+gland	organ	body_part	tissue	structure	cell	unit	component	element	part	piece	fraction	fragment	bit	scrap
+investor	financier	trader	money_manager	fund_manager	capitalist	entrepreneur	businessman	businessperson	professional	person	human	being	creature	animal
+restaurant	eatery	cafe	diner	pub	bar	tavern	inn	guesthouse	hostel	lodge	motel	hotel	building	structure
+equilibrium	harmony	stability	symmetry	proportion	harmony_of_interests	equilibrium_of_forces	balance_of_payments	equality	equity	fairness	justice	right	law	order
+capitol	city	federal_district	urban_area	municipality	community	region	location	place	jurisdiction	territory	land	area	domain	division
+surgery	medical_procedure	childbirth	delivery	birth	labor	process	event	occurrence	happening	incident	situation	circumstance	case	affair
+geologic_time	geologic_era	period	division	interval	stage	epoch	time_frame	timescale	chronology	history	record	archive	document	text
+condiment	spice	seasoning	flavoring	ingredient	food	item	article	thing	object	material	substance	matter	physical_entity	physical_object
+character	person	female	human_being	individual	being	entity	creature	organism	life_form	living_thing	biological_entity	natural_entity	physical_entity	material_object
+computer	electronic_device	technology	machine	device	gadget	tool	implement	instrument	apparatus	object	thing	item	article	material_object
+side	surface	area	part	division	section	portion	piece	fragment	fraction	element	component	constituent	ingredient	factor
+season	time_of_year	period	interval	stage	epoch	time_frame	timescale	chronology	history	record	archive	document	text	writing
+price	cost	fee	charge	payment	amount	sum	money	currency	medium_of_exchange	value	worth	market_value	monetary_value	financial_value
+symbol	sign	image	representation	depiction	portrayal	figure	design	motif	pattern	decoration	ornament	adornment	embellishment	accessory
+continent	landmass	geographic_region	earth's_surface	world	planet	celestial_body	heavenly_body	astronomical_object	object	thing	entity	existence	being	cosmos
+vascular_disease	blood_vessel_disease	disease	illness	medical_condition	health_condition	ailment	complaint	disorder	sickness	malady	indisposition	affliction	scourge	plague
+crossbreed	mongrel	hybrid	blend	mixture	combination	alloy	composite	amalgam	fusion	synthesis	integration	incorporation	unification	union
+crush	infatuation	love	affection	attachment	fondness	liking	regard	admiration	respect	esteem	honor	adoration	reverence	worship
+swim_stroke	swimming_stroke	stroke	style	technique	method	approach	way	manner	mode	pattern	format	structure	organization	system
+armenian_american_author	armenian_author	american_author	writer	novelist	poet	playwright	essayist	storyteller	wordsmith	scribbler	penman	penwoman	author	creative
+trustworthiness	dependability	reliability	constancy	faithfulness	loyalty	allegiance	devotion	fidelity	honesty	integrity	uprightness	rectitude	probity	virtue
+mystery_writer	american_mystery_writer	mystery_novelist	american_mystery_novelist	novelist	author	writer	storyteller	wordsmith	scribe	penman	scribbler	creative	artist	individual
+typhoon	tropical_cyclone	cyclone	storm	weather_disturbance	natural_disaster	atmospheric_phenomenon	natural_phenomenon	physical_phenomenon	phenomenon	event	occurrence	happening	incident	circumstance
+novelist	fiction_writer	author	writer	creative	artist	individual	person	human	being	entity	creature	mortal	soul	spirit
+jail	penitentiary	correctional_facility	detention_center	penal_institution	reformatory	bridewell	lockup	slammer	calaboose	pokey	jug	stir	hoosegow	clink
+spinnerette	spinner	extrusion_nozzle
+cargo	freight	goods	merchandise
+magazine
+corn_chip	chip	snack
+river	waterway	watercourse
+vest	waistcoat	sleeveless
+person	individual	human
+rock	stone	mineral
+race	competition	event
+film_critic	writer	author	journalist	commentator	reviewer	media_personality	public_figure	celebrity	notable_person	individual	human_being	mammal	animal	living_thing
+worker	laborer	employee	staff_member	individual	human_being	mammal	animal	living_thing	being	entity	existent	object	thing	concept
+conclusion	ending	culmination	finale	climax	resolution	settlement	finish	completion	fulfillment	achievement	attainment	accomplishment	triumph	success
+current_asset	asset	financial_resource	resource	means	capability	ability	power	faculty	strength	force	energy	property	characteristic	attribute
+airport	airfield	landing_field	airstrip	runway	tarmac	terminal	hangar	control_tower	flight_path	airspace	aviation_hub	transportation_hub	public_facility	infrastructure
+detective	investigator	sleuth	gumshoe	operative	researcher	spy	agent	informer	witness	source	expert	professional	individual	human_being
+noble	aristocrat	elite	upper_class	wealthy	privileged	influential	powerful	respected	honored	esteemed	dignified	gracious	refined	cultured
+law	statute	regulation	legislation	bill	code	ordinance	decree	enactment	provision	rule	guideline	principle	standard	policy
+communication	expression	speech	writing	gesture	sign	symbol	code	system	method	technique	art	science	discipline	field
+bone_cell	cell	tissue	organ	system	organism	animal	living_thing	being	entity	existent	object	thing	concept	phenomenon
+professor	historian	author	educator	academic	intellectual	scholar	thinker	researcher	writer	expert	authority	figure	individual	person
+voting_system	electoral_system	democratic_system	political_system	government_system	constitutional_system	legal_framework	public_policy	social_institution	society	culture	civilization	humanity	world	planet
+drug_dealer	drug_trafficker	criminal	lawbreaker	offender	felon	convict	prisoner	inmate	deviant	outlaw	gangster	mobster	racketeer	criminal_element
+old_age	retirement	agedness	seniority	advanced_years	golden_years	twilight_years	later_life	post-retirement_life	second_childhood	dotage	decline	frailty	decrepitude	infirmity
+clinic	hospital	medical_center	health_care_center	health_care_facility	medical_facility	healthcare_institution	medical_institution	health_care_provider	health_care_system	health_care_industry	health_care_sector	medical_field	medical_profession	medical_science
+midfield_line	midfield_area	central_midfield	defensive_midfield	attacking_midfield	box-to-box_midfield	wing	flank	sideline	touchline	goal_line	penalty_area	corner_area	pitch	stadium
+historian	chronicler	annalist	biographer	memoirist	diarist	journalist	reporter	correspondent	writer	author	scribe	recorder	keeper	guardian
+test_facility	test_site	test_center	test_location	test_area	test_zone	test_range	testing_facility	testing_site	testing_center	testing_location	testing_area	testing_zone	laboratory	experimental_facility
+fish	mackerel	scombrid	pelagic_fish	ocean_fish	saltwater_fish	oily_fish	food	sustenance	nourishment	nutrition	protein	omega-3_fatty_acids	seafood	marine_life
+affection	affectionateness	fondness	caring	tenderness	love	attachment	closeness	warmth	intimacy	sympathy	empathy	compassion	kindness	gentleness
+specialist	physician	doctor	healthcare_professional	person
+bone	tissue	body_part	organism
+hurricane	storm	natural_phenomenon	phenomenon
+workplace	space	building	structure
+letter	document	communication	text	writing
+gaming_device	game	toy
+machine	device	tool
+person	human	being
+hole	opening	space
+treasure	fortune	wealth
+republican	politician	american	human	person	individual	creature	animal	organism	living_thing	being	entity	object	thing	substance
+sport	water_sport	wave	water	liquid	fluid	substance	matter	physical_thing	thing	object	entity	being	creature	organism
+website	online_resource	web_resource	resource	information	knowledge	data	fact	idea	concept	mental_object	thing	object	entity	being
+giant	person	human	creature	animal	organism	living_thing	being	entity	object	thing	physical_thing	matter	substance	stuff
+period	time	time_period	day_of_the_week	day_of_the_month	day_of_the_year	date	temporal_unit	unit_of_time	unit	measure	quantity	property	characteristic	attribute
+personality	disposition	nature	character	psyche	mind	intellect	spirit	soul	self	being	entity	object	thing	substance
+compensation	payment	reparations	reparation	amends	atonement	contrition	remorse	regret	guilt	emotion	feeling	state_of_mind	mental_state	consciousness
+leather	animal_hide	hide	skin	integument	covering	body_covering	material	substance	matter	physical_thing	thing	object	entity	being
+sight	sense	perception	cognition	understanding	knowledge	information	data	fact	idea	concept	mental_object	thing	object	entity
+computer_architecture	computer_design	design	engineering	science	knowledge	information	data	fact	idea	concept	mental_object	thing	object	entity
+establishment	room	building	structure	dining_car	restaurant	eatery	eating_house	eating_place	food_outlet	food_service_establishment	food_and_beverage_establishment	commercial_establishment	public_place	public_space
+outflow	discharge	emission	liberation	delivery	publication	announcement	issue	dispensation	distribution	dissemination	circulation	spread	propagation	exposure
+vitality	stamina	energy	strength	robustness	health	wellness	vitality	animation	sprightliness	exuberance	ebullience	effervescence	buoyancy	vivacity
+tool	drill	boring_machine	boring_tool	piercing_tool	cutting_tool	woodworking_tool	metalworking_tool	construction_tool	industrial_tool	power_tool	portable_tool	handheld_tool	rotary_tool	mechanical_tool
+government_service	public_employment	service_to_the_public	public_administration	public_sector	civil_service	government_agency	public_institution	public_utility	non-profit_organization	charitable_organization	volunteer_organization	community_service	public_health	public_safety
+muscle	laryngeal_muscle	pharyngeal_muscle	throat_muscle	neck_muscle	sphincter_muscle	smooth_muscle	involuntary_muscle	striated_muscle	skeletal_muscle	cranial_muscle	facial_muscle	ocular_muscle	respiratory_muscle	digestive_muscle
+city	municipality	settlement	town	urban_area	metropolitan_area	province	region	country	nation	state	political_entity	geographical_entity	administrative_division	cultural_center
+childhood	infancy	adolescence	youth	minority	immaturity	inexperience	naivety	innocence	gullibility	credulity	susceptibility	vulnerability	dependency	immaturity
+unit	volume_unit	capacity_unit	measure	weight_measure	dry_measure	bushel	peck	gallon	quart	pint	cup	tablespoon	teaspoon	metric_unit
+opening	aperture	passage	entrance	exit	gateway	portal	doorway	door_frame	door_jamb	door_sill	door_arch	door_header	door_threshold	door_sweep
+sound	noise	vibration	rumble	clap	thunderclap	natural_phenomenon	physical_phenomenon	phenomenon
+person	inventor	engineer	scientist	patent_holder
+use	usage	depletion	expenditure	spending	outlay	waste
+collective	group	body	personnel	staff	employees
+mistreatment	abuse	exploitation	injustice	targeting
+food	sustenance	nourishment	element	mineral	vitamin
+meeting	conference	gathering	event	assembly	convention
+person	individual
+device	equipment	tool
+anger	aggression	violence	hostility
+gaming_device	video_game_console	electronic_device	home_appliance	consumer_electronics	electronic_equipment	digital_device	hardware	technology	product	item	thing	entity	object	existence
+being	existing	coming_into_existence	emerging	surfacing	arising	materializing	manifesting	developing	forming	taking_shape	growing	becoming	getting	turning
+kinase	enzyme	protein	biomolecule	molecule	chemical	substance	matter	entity	object	thing	existence	being	phenomenon	occurrence
+base	foundation	infrastructure	framework	architecture	design	blueprint	plan	concept	idea	principle	theory	doctrine	belief	creed
+locus	allele	chromosome	dna	nucleic_acid	macromolecule	molecule	chemical	substance	matter	entity	object	thing	existence	being
+good	product	item	merchandise	consumable	product_for_sale	stock	inventory	supply	possession	asset	wealth	material_resource	resource	means
+name	title	label	description	identification	classification	categorization	grouping	assortment	collection	set	whole	entity	object	thing
+cricketer	sportsman	athlete	person	human	individual	being	entity	object	thing	existence	phenomenon	occurrence	event	happening
+metric_ton	ton	weight	mass	quantity	measure	unit_of_measurement	amount	value	magnitude	strength	intensity	level	degree	extent
+video_editor	software	application	program	digital_tool	electronic_tool	instrument	device	apparatus	equipment	machine	mechanism	system	creation	invention
+marsupial	mammal	animal	organism	being	entity	silver	metal	element	matter	substance	physical_object	object	thing
+variation	form	type	kind	sort	class	category	division	group	set	collection	aggregate
+covering	wrapper	container	holder	receptacle	case	box	package	parcel
+music	genre	art	expression	communication	idea	thought
+reflection	optics	science	knowledge	information	field_of_study
+disguise	concealment	clothing	garment	textile	fabric	material
+coin	currency	money	medium_of_exchange	finance	economics
+precipitation	water	substance	physical_object	object	thing
+existence	life	experience	phenomenon	event	occurrence
+rock	stone	mineral	earth_material	substance	physical_object	object	thing
+politician	labour_mp	member_of_parliament	british_politician	mp
+length	unit_of_measurement	measurement
+spacecraft	rocket
+direction	compass_point
+belief	opinion
+airline	cargo_airline
+drum__and__bass_band
+markup_language	programming_language
+astronaut	scientist	physician	engineer	nasa_astronaut	african-american_astronaut
+element	alkali_metal	metal
+communication	business	industry	commercial_activity	economy	monetary_affair	money_related	financial	monetary	bank	banking	fiscal	revenue	account	accounting
+american	film_actor	actor	entertainer	artist	comedian	funnyman	comic	humorist	wit	wag	humor_writer	writer	author	penman
+syndrome	geriatric_syndrome	medical_syndrome	medical_condition	disease	illness	sickliness	pathology	sickness	disorder	malady	ailment	complaint	indisposition	infirmity
+arising	appearance	coming	advent	arrival	outset	start	beginning	commencement	inception	initiation	inauguration	incipience	commencement	institution
+integer	ten_thousand	integer	natural_number	whole_number	real_number	number	measure	quantity	amount	magnitude	extent	length	size	dimension
+pathology	disease	illness	sickliness	disorder	malady	ailment	complaint	indisposition	infirmity	sickness	medical_syndrome	medical_condition	renal_disease	kidney_disease
+traveler's_diarrhea	diarrhea	disorder	gastrointestinal_disorder	gastrointestinal_problem	gastrointestinal_illness	sickness	illness	disease	pathology	medical_condition	medical_problem	medical_issue	medical_syndrome	malady
+stage	period	time_period	duration	term	epoch	era	generation	cycle	circuit	turn	spell	stripe	layer	film
+radon	chemical_element	element	matter	physical_science	science	body_of_knowledge	systematic_knowledge	know-how	skill	art	technique	method	process	procedure
+hillock	hill	mound	knoll	elevation	upland	highlands	rise	eminence	prominence	elevation	altitude	height	deepness	dimension
+examination	review	surveillance	investigation	monitoring	check	inspection	audit	critique	analysis	inquiry	assessment	evaluation	probe	study
+legume	pea	vegetable	food	crop	peanut	earthnut
+saw	tool	hand_tool	cutting_tool	metal_cutting_tool	frame_saw
+safety_device	electrical_component	protective_device	electrical_device	circuit_protection_device
+siege_engine	catapult	weapon	trebuchet
+bequest	legacy	estate	property	assets	inheritance	bequest	patrimony	birthright	endowment	devise	heritage	legacy	portion	provision
+vestment	ecclesiastical_vestment	liturgical_vestment	religious_vestment
+coagulation	precipitation	chemical_reaction
+power	index	superscript	mathematical_symbol
+shape	outline	figure	configuration	conformation	structure	design	pattern	template	mold	cast	format	system	framework	structure
+defeat	failure	flop	fiasco	debacle	disaster	catastrophe	calamity	misfortune	misadventure	adversity	hardship	trial	tribulation	plight
+actor	thespian	performer	stage_actor	screen_actor	television_actor	entertainer	artist	celebrity	personality	public_figure	notable	dignitary	vip	luminary
+monster	creature	beast	abomination	monstrosity	horror	nightmare	terror	evil	wickedness	sin	depravity	corruption	perversion	abomination
+unconsciousness	sleep	stupor	trance	hibernation	torpor	lethargy	abeyance	inactivity	dormancy	repose	quiescence	calm	serenity	peace
+road	way	thoroughfare	artery	highway	boulevard	avenue	lane	alley	path	trail	byway	bridleway	footpath	sidewalk
+musician	singer	songwriter	composer	performer	artist	entertainer	celebrity	personality	public_figure	notable	dignitary	vip	luminary	icon
+teacher	educator	instructor	professor	tutor	mentor	guide	counselor	advisor	helper	assistant	supporter	advocate	promoter	champion
+film	movie	picture	drama	comedy	tragedy	action	thriller	horror	science_fiction	fantasy	animation	documentary	experimental	independent
+molecule	compound	chemical	substance	matter	material	thing	entity	object	concept	idea	thought	principle	law	theory
+king	ruler	leader	commander	general	warrior	soldier	hero	icon	symbol	legend	myth	figure	personage	character
+comment	feature	article	non-fiction_prose	prose	writing	literature	work	creation	product	artifact	object	entity	thing	item
+druse	mineral_aggregate	mineral	inorganic_substance	substance	matter	physical_entity	entity	thing	item	object	artifact	creation	product	work
+sanitary_ware	plumbing_appliance	plumbing	sanitation	hygiene	health	welfare	well-being	condition	state	circumstance	situation	position	place	location
+altitude	elevation	distance_up	measurement	dimension	physical_property	property	attribute	characteristic	quality	feature	aspect	facet	aspect	side
+lithography	printing	graphic_art	art	fine_art	visual_art	art_form	form	genre	category	class	group	set	collection	assemblage
+biography	autobiography	non-fiction_prose	prose	writing	literature	work	creation	product	artifact	object	entity	thing	item	subject
+fabric	textile	material	substance	matter	physical_entity	entity	thing	item	object	artifact	creation	product	work	good
+church	building	structure	edifice	construction	work	creation	product	artifact	object	entity	thing	item	possession	property
+person	individual	human_being	creature	organism	living_thing	entity	thing	item	object	artifact	creation	product	work	subject
+ship	vessel	craft	watercraft	vehicle	conveyance	means_of_transport	transport	artifact	creation	product	work	object	entity	thing
+cleric	preacher	religious_leader	minister	parson	rector	vicar	priest	chaplain	pastor	bishop	archbishop	cardinal	pope	clergyman
+sketch	outline	drawing	design	plan	proposal	suggestion	document	writing	manuscript	bill	law	regulation	agreement	contract
+sandbox	enclosure	playground	play_area	play_space	playground_equipment	recreational_facility	recreational_space	leisure_facility	leisure_space	public_space	outdoor_space	outdoor_area	environment	place
+musician	singer	songwriter	singer-songwriter	artist	performer	entertainer	celebrity	public_figure	person	individual	human_being	living_being	organism	entity
+sapote	fruit	food	plant	flora	botany	science	knowledge	information	data	facts	beings	entities	things	matter
+sparerib	meat	food	nourishment	sustenance	provision	sustenance	nutrition	foodstuff	comestible	edible	nutrient	dish	meal	cuisine
+livery	uniform	outfit	clothing	apparel	attire	costume	garb	raiment	vestment	garment	dress	wear	threads	cloth
+railroad	railway	line	track	route	transportation	travel	movement	locomotion	progress	advancement	development	evolution	change	transformation
+injection	shot	vaccination	medication	drug	medicine	pharmaceutical	treatment	therapy	remedy	cure	health	wellness	well-being	vitality
+manufacturing	production	industry	business	enterprise	organization	institution	company	corporation	firm	entity	group	collective	association	society
+person	destitute	impoverished	indigent	needy	poor	underprivileged	vagrant	homeless_person	transient	derelict	beggar	hobo	tramp	street_person
+fortification	defensive_structure	bunker	line_of_fortifications	barrier	bulwark	rampart	wall	fortification_system	castle	fort	fortress	stronghold	redoubt	citadel
+photographer	artist	visual_artist	fine_artist	american	californian	modernist	landscape_photographer	nature_photographer	portrait_photographer	still_life_photographer	artist	edward_weston	male	human
+person	american	male	journalist	writer	reporter	political_reporter	political_analyst	news_anchor	television_personality	media_personality	public_figure	commentator	pundit	media_executive
+vegetable	root_vegetable	edible_root	cruciferous_vegetable	food	raphanus_sativus	turnip	carrot	beet	parsnip	rutabaga	winter_radish	daikon	mooli	lobak
+state	us_state	great_lakes_state	midwest_state	location	place	geographical_region	state	michigan	great_lakes_region	midwest	america	north_america	land	territory
+operating_system	linux_distribution	live_cd_distribution	debian-based_distribution	slackware-based_distribution	opensuse-based_distribution	gentoo-based_distribution	arch-based_distribution	fedora-based_distribution	operating_system	software	computer_program	technology	invention	creation
+injustice	legal_error	judicial_error	wrongful_conviction	wrongful_accusation	wrongful_punishment	error_of_justice	miscarriage	failure_of_justice	violation_of_justice	miscarriage_of_law	travesty_of_justice	mockery_of_justice	blot_on_justice	miscarriage_of_rights
+process	deriving_the_origin_of_words	studying_word_origins	finding_the_etymology_of_words	tracing_word_origins	etymological_research	etymology	study_of_word_origins	linguistic_analysis	philology	historical_linguistics	diachronic_linguistics	etymological_study	etymological_inquiry	etymological_investigation
+process	hardening_process	metalworking_process	metallurgical_process	hardening_of_metal	making_metal_harder	cementation	carburization	nitriding	carbonization	surface_hardening	case_hardening	hardening	tempering	annealing
+gorget	piece_of_armor	armor	protective_gear	gear	equipment
+center	interior	area	point	location	place
+guesthouse	bed_and_breakfast	hotel	lodging	accommodation	housing
+dionysia	festival	celebration	occasion	event	happening
+horseshoer	blacksmith	metalworker	worker	laborer
+kew_palace	palace	building	structure	edifice
+headshot	photograph	image	picture	graphic
+authoress	author	writer	novelist	storyteller
+tank	vehicle	machine	device	equipment
+vigabatrin	drug	medication	pharmaceutical	treatment
+feeling	emotion	reaction	response	sensation	experience	event	occurrence	happening	circumstance	situation	matter	affair	item	fact
+dog	canine	animal	mammal	living_being	creature	being	entity	object	thing	item	article	commodity	product	good
+design	art	creation	work	product	outcome	result	effect	consequence	aftermath	upshot	issue	development	unfolding	happening
+man	person	individual	human_being	being	entity	object	thing	item	article	commodity	product	good	possession	chattel
+bias	prejudice	preconception	predisposition	partiality	preference	favoritism	nepotism	cronyism	corruption	wrongdoing	wrong	crime	misdemeanor	felony
+city	town	village	settlement	community	municipality	district	region	area	zone	tract	parcel	land	property	real_estate
+shoreline	shore	beach	seaside	waterfront	waterside	riverbank	riverfront	lakefront	lakeside	pond_side	pondfront	ocean_front	oceanside	bayside
+restaurant	eatery	cafe	dining_place	establishment	business	enterprise	organization	institution	body	group	assemblage	collection	gathering	multitude
+strait	passage	channel	waterway	body_of_water	water	liquid	fluid	substance	matter	material	stuff	thing	item	article
+singer	musician	artist	performer	entertainer	star	celebrity	personality	figure	personage	character	type	sort	kind	class
+arcade_game	amusement_game	game	indoor_game	hobby	leisure_activity	recreation	entertainment	pastime	occupation	diversion	pursuit	amusement	fun	pleasure
+male	man	adult_male	gentleman	person	human	individual	being	creature	mortal	soul	mind	consciousness	spirit	entity
+tropical_cyclone	tropical_weather_system	storm	tropical_storm	hurricane	cyclone	atmospheric_phenomenon	natural_phenomenon	physical_phenomenon	phenomenon	event	occurrence	incident	happenstance	situation
+man	adult_male	gentleman	person	human	individual	being	creature	mortal	soul	mind	consciousness	spirit	entity	life
+discourse	sermon	address	speech	oration	lecture	talk	presentation	announcement	message	declaration	statement	proclamation	utterance	vocalization
+maintenance	servicing	upkeep	restoration	renovation	improvement	refurbishment	mending	fixing	patching	adjustment	tuning	calibration	servicing	maintenance
+medical_imaging_agent	contrast_medium	dye	reagent	chemical	substance	material	matter	object	thing	entity	being	creature	life	organism
+fertilization	reproduction	propagation	breeding	generation	procreation	birth	life	existence	being	entity	creature	mind	consciousness	soul
+male	man	adult_male	gentleman	person	human	individual	being	creature	mortal	soul	mind	consciousness	spirit	entity
+representative	agent	delegate	deputy	ambassador	envoy	emissary	proxy	trustee	guardian	protector	champion	advocate	spokesperson	figurehead
+internet_portal	web_portal	website	web_page	homepage	domain	world_wide_web	internet	network_communication	communication	virtual_world	digital_world	online_environment	social_media	technology
+inactivity	break	rest	pause	interval	gap	hiatus	lull	respite	reprieve	recess	interpolation	interlude	opening	breathing_space
+saxophonist	jazz_musician	musician	artist	performer	entertainer	composer	instrumentalist	vocalist	band_member	music_producer	music_arranger	music_director	teacher	lecturer
+urban_area	city	town	municipality	district	precinct	suburb	village	hamlet	township	megalopolis	conurbation	urban_sprawl	settlement	community
+failure	defeat	loss	collapse	ruin	destruction	downfall	decline	fall	crash	setback	reversal	tragedy	disaster	catastrophe
+award	honor	recognition	praise	commendation	compliment	compliment	approbation	acclaim	acknowledgment	testimonial	tribute	ovation	laurel	trophy
+software	computer_program	application	word_processor	spreadsheet	database	presentation_software	accounting_software	customer_relationship_management_software	enterprise_resource_planning_software	supply_chain_management_software	project_management_software	collaboration_software	communication_software	security_software
+tablet	capsule	medication	drug	pharmaceutical	remedy	treatment	cure	preventative	prescription	over-the-counter	dietary_supplement	vitamin	mineral	herb
+elevator	lift	ride	raise	hoist	elevate	upthrust	ascension	ascent	boost	encouragement	help	assistance	support	motivation
+incarceration	imprisonment	confinement	isolation	loneliness	separation	ostracism	exclusion	banishment	exile	detention	restraint	holding	captivity	house_arrest
+turf	ground	land	soil	clay	silt	loam	humus	topsoil	subsoil	overburden	pedology	geology	natural_resource	earth_material
+herb	plant	organism	living_being	hypericum_androsaemum	flowering_plant	dicot	angiosperm	eudicot	rosid	malpighiales	clusiaceae	hypericaceae	hypericum	hypericum_androsaemum
+cartographer	geographer	surveyor	explorer	scientist	researcher	mathematician	astronomer	physicist	engineer	architect	inventor	pioneer	trailblazer	pathfinder
+indecency	impropriety	unseemliness	disrespect	rudeness	vulgarity	crudeness	coarseness	grossness	repulsiveness	offensiveness	obnoxiousness	abomination	sin	evil
+length	distance	dimension	measurement	measure	unit	quantity	value	amount	sum	total	aggregate	integer	number	numeral
+rebirth	renewal	resuscitation	revival	restoration	reparation	repair	mending	fixing	rebuilding	reconstruction	resurrection	reincarnation	transmigration	renewal
+gemstone	mineral	rock	stone	crystal	gem	jewel	precious_stone	semi-precious_stone	decorative_stone	ornamental_stone	opaque_gemstone	cabochon_gemstone	blue_gemstone	green_gemstone
+herb	plant	organism	living_being	ruta_graveolens	flowering_plant	dicot	angiosperm	eudicot	rosid	sapindales	rutaceae	rue	ruta	ruta_graveolens
+ethic	morality	principle	belief	value	ideal	standard	norm	convention	tradition	custom	practice	law	rule	regulation
+reptile	snake	elapid	colubrid	pythonid	boid	viperid	crotalid	rear-fanged_snake	marine_snake	egg-laying_snake	viviparous_snake	constrictor	venomous_snake	non-venomous_snake
+rodent	mammal	animal	chordate	organism	creature	being	existence	entity	object	substance	matter	physical_substance	corporeal_substance	material_substance
+food	ingredient	garnish	condiment	sauce	topping	food_product	comestible	eatable	nourishment	sustenance	nutrition	subsistence	bread_and_butter	staff_of_life
+president	politician	leader	statesman	public_figure	official	functionary	employee	worker	laborer	breadwinner	provider	supporter	bread_winner	breadwinning_person
+computer	machine	device	apparatus	appliance	gadget	contrivance	gizmo	widget	doodad	thingamajig	whatchamacallit	thing	entity	object
+marine_mammal	mammal	animal	chordate	organism	creature	being	existence	entity	object	substance	matter	physical_substance	corporeal_substance	material_substance
+election	poll	referendum	plebiscite	vote	suffrage	franchise	right_to_vote	privilege_to_vote	power_to_vote	authority_to_vote	prerogative_to_vote	right	prerogative	privilege
+country	nation	state	land	territory	domain	realm	kingdom	empire	republic	confederation	federation	union	commonwealth	community
+actor	performer	artist	entertainer	celebrity	star	public_figure	personality	individual	person	soul	being	creature	mortal	human
+remark	comment	statement	utterance	speech	talk	language	communication	expression	thought	idea	concept	notion	belief	conviction
+singer	musician	artist	entertainer	celebrity	star	public_figure	personality	individual	person	soul	being	creature	mortal	human
+male	actor	celebrity	entertainer	public_figure	american	human
+retail_store	business	company	organization
+protection	building	cover	refuge	dwelling
+phonics	grammar	language_study
+game_engine	software
+reward	compensation	earnings
+document	right	legal_right
+politician	government_official	official	american	person
+shape	geometry
+type	kind	change	assortment
+natural_environment	environment	nature	biosphere	habitat	niche	environment	landscape	biome	tundra	forest	desert	grassland	savanna	woodland
+weather	atmosphere	environment	nature	biosphere	habitat	niche	environment	landscape	biome	tundra	forest	desert	grassland	savanna
+affix	morpheme	word_element	grammatical_affix	derivational_affix	inflectional_affix	bound_morpheme	bound_word_element	bound_form	preform	proform	foreform	priorform	preformative	prepositional_phrase
+supernatural	metaphysical	occult	paranormal	parapsychology	psychic_phenomena	extrasensory_perception	telepathy	clairvoyance	precognition	psychokinesis	spiritualism	mysticism	theosophy	occultism
+emotion	feeling	affect	sensation	perception	cognition	mental_process	conscious_process	affective_state	arousal	activation	energy	vigor	enthusiasm	zeal
+electric_motor	motor	engine	machine	device	appliance	tool	gadget	equipment	instrument	apparatus	mechanism	contrivance	invention	creation
+student	person	individual	being	creature	entity	organism	life_form	human	homo_sapiens	man	woman	boy	girl	child
+sportsman	athlete	player	competitor	performer	entertainer	professional	expert	specialist	master	virtuoso	prodigy	genius	wizard	phenom
+rights	liberties	freedoms	entitlements	privileges	prerogatives	immunities	protections	safeguards	guarantees	benefits	advantages	entitlements	opportunities	choices
+stick	rod	pole	shaft	bar	post	pillar	column	upright	vertical	perpendicular	erect	standing	upright	vertical
+geographical_region	watershed	area	region	land	earth	terrestrial_body	astronomical_object	natural_object	object	collection	category	compound	assemblage	unity
+vehicle	rollercoaster	transportation	locomotion	travel	movement	action	happening	occurrence	event	social_event	experience	entertainment	game	activity
+vocalist	singer	musician	artist	entertainer	performer	communicator	human	person	individual	being	living_thing	organism	eukaryote	cell
+tree	plant	organism	eukaryote	cell	living_thing	being	individual	person	natural_object	physical_object	object	item	entity	abstraction
+tool	mallet	instrument	utility	equipment	machine	device	invention	creation	artifact	construct	assembly	composition	mixture	combination
+collection	selection	category	group	class	kind	type	sort	variety	diversity	spread	scattering	distribution	range	spectrum
+movement	turn	rotation	revolution	spin	whirl	twist	coil	spiral	helix	curve	arc	segment	line	figure
+person	individual	being	living_thing	organism	eukaryote	cell	natural_object	physical_object	object	item	entity	abstraction	concept	idea
+language	ironpython	tool	instrument	utility	equipment	machine	device	invention	creation	artifact	construct	assembly	composition	mixture
+container	mug	vessel	receptacle	utensil	tool	instrument	utility	equipment	machine	device	invention	creation	artifact	construct
+singer	performer	musician	entertainer	actor	artist	personality	celebrity	figure	individual	person	human	being	creature	organism
+researcher	postdoctoral_researcher	doctoral_student	scholar	fellow	graduate_student	student	learner	pupil	attendee	person	human	being	creature	organism
+building	structure	shelter	shed	cabin	hut	cottage	home	dwelling	house	property	real_estate	shelter	lodging	accommodation
+alliance	league	union	federation	partnership	organization	entity	group	collective	body	association	community	society	public	people
+text	document	literature	composition	prose	fiction	narrative	story	novel	short_story	script	screenplay	commentary	article	essay
+bowl	dish	plate	bowl	vessel	container	holder	receptacle	case	box	chest	drawer	cabinet	cupboard	shelf
+engagement	encounter	skirmish	battle	conflict	war	fight	struggle	clash	fray	hostility	violence	animosity	ill_will	friction
+musician	player	performer	instrumentalist	artist	composer	singer	performer	entertainer	artist	personality	celebrity	figure	individual	person
+novel	book	literature	fiction	narrative	story	work	creation	product	outcome	result	achievement	accomplishment	feat	triumph
+skin_condition	disease	illness	ailment	disorder	condition	problem	issue	concern	difficulty	challenge	obstacle	barrier	hurdle	impediment
+arrangement	alliance	covenant	contract	deal	combination	grouping	arrangement	union	connection	unification	agreement	compact	concord	entente
+sam	samuel	person	human	male	baseball_player	athlete	sportsperson	hall_of_famer	outfielder	left_fielder	american	californian	detroit_tiger	major_leaguer
+fish	bony_fish	ray-finned_fish	teleost	perciform	perciform_fish	marine_fish	scombroid	mackerel	queenfish	australian_salmon	slender_tuna	narrow-barred_spanish_mackerel	kingfish	leatherjacket
+social_group	fraternity	college_fraternity	american_college_fraternity	national_fraternity	men's_fraternity	social_fraternity	greek-letter_organization	greek_fraternity	college_social_group	student_organization	youth_organization	alpha_omega_epsilon	a_o_e	ao_e
+covering	shade	shield	blindfold	bandage	arm_band	headband	sash	scarf	eyewear	cloth	textile	protective_gear	headgear	eye_gear
+gem	mineral	gemstone	ruby	precious_stone	red_stone	corundum	aluminum_oxide	crystal	silicate	mineraloid	rock	jewelry	bauble	ornament
+man	male	person	worker	employee	steward	manager	administrator	overseer	supervisor	caretaker	housekeeper	butler	cabin_attendant	flight_attendant
+anthony	sir_anthony	person	human	male	actor	thespian	performer	entertainer	artist	welsh_actor	hollywood_actor	academy_award_winner	british_actor	star
+john	person	human	male	actor	thespian	performer	entertainer	artist	stage_actor	american_actor	broadway_star	mgm_star	silent_film_star	leading_man
+burnaby	city	urban_area	municipality	district	metropolitan_area	vancouver_suburb	british_columbia_city	lower_mainland_city	fraser_valley_city	regional_district	local_government	community	settlement	town
+evidence	document	record	paper	writing	composition	document	text	literature	documentation	data	information	knowledge	content	substance
+call	phone_call	conversation	discussion	chat	talk	dialogue	communication	interaction	exchange	contact	connection	relationship	association	affiliation
+logo	brand_mark	trademark	symbol	icon	sign	emblem	figure	graphic	design	artwork	illustration	visual	representation	depiction
+administration	governance	oversight	supervision	control	regulation	guidance	direction	leadership	planning	organizing	staffing	directing	controlling	coordinating
+migration	movement	travel	relocation	displacement	resettlement	urbanization	emigration	immigration	population_movement	social_change	cultural_change	economic_change	political_change	environmental_change
+gem	jewel	stone	mineral	crystal	rock	inorganic_substance	natural_object	physical_object	tangible_object	material_object	entity	thing	being	existence
+man	human	person	individual	being	entity	citizen	resident	taxpayer	consumer	voter	worker	employee	professional	athlete
+bread	loaf	food	nourishment	sustenance	provision	ingredient	staple	commodity	product	good	merchandise	article	item	thing
+man	human	person	individual	being	entity	character	protagonist	antagonist	archetype	symbol	figure	icon	legend	myth
+person	human	citizen	resident	native	inhabitant	individual	being	entity	creature	organism	animal	vertebrate	mammal	primate
+american_magazine	publication	written_work	literature	periodical	news_magazine	journal	newsletter	zine	paper	rag	broadsheet	tabloid	monthly	weekly
+secularism	atheism	skepticism	agnosticism	humanism	rationalism	freethinking	irreligion	unbelief	lack_of_faith	nonbelief	disbelief	skepticism	doubt	questioning
+rhodesian	african	national	citizen	resident	subject	individual	person	human	being	soul	creature	mortal	man	woman
+release	discharge	exoneration	absolution	pardon	forgiveness	immunity	exemption	clearance	vindication	exculpation	justification	rationalization	defense	case
+purple	color	hue	shade	tint	tone	pigmentation	pigment	dye	ink	stain	toner	coloring	colorant	chromatics
+school_year	term	semester	quarter	trimester	session	period	cycle	interval	span	stretch	duration	length	time	year
+irish	american	catholic	author	writer	novelist	short_story_writer	journalist	essayist	critic	pundit	commentator	speaker	lecturer	professor
+tree	plant	vegetation	flora	nature	biology	organism	living_thing	being	creature	entity	individual	soul	person	human
+musician	singer	songwriter	guitarist	bassist	drummer	keyboardist	vocalist	instrumentalist	artist	performer	entertainer	celebrity	star	icon
+nonconformist	independent	dissenter	rebel	renegade	outcast	outsider	individualist	eccentric	original	unconventional	unorthodox	atypical	unique	different
+**pod**	seed_container	fruit	plant_organ	plant_part	organism_part	part	component	entity	thing	material_object	object	artifact	creation	product
+**wood**	timber	wood_material	wood_product	lignocellulosic_material	organic_material	substance	matter	material	physical_entity	entity	thing	artifact	creation	product
+**constantius**	roman_emperor	emperor	monarch	sovereign	ruler	head_of_state	government_official	official	person	human	animal	organism	living_thing	entity
+**hostile_fire**	enemy_fire	combat	military_operation	military_action	war	conflict	violence	aggression	hostility	antagonism	animosity	ill_will	malice	malevolence
+**macedonia**	district	territory	land	country	state	nation	society	group	entity	thing	artifact	creation	product	result
+**misfire**	ignition_failure	engine_failure	mechanical_failure	failure	malfunction	problem	difficulty	challenge	obstacle	barrier	hurdle	impediment	hindrance	setback
+**itsu**	restaurant_chain	restaurant	eatery	eating_establishment	food_service_establishment	business	organization	entity	group	collective	whole	unit	thing	artifact
+**health_economics**	economics	social_science	science	knowledge	information	data	fact	entity	thing	artifact	creation	product	result	outcome
+**picture**	image	representation	depiction	portrayal	rendering	artwork	creation	product	artifact	object	thing	entity	concept	idea
+**decomposition**	decay	disintegration	destruction	breaking_down	breaking_apart	reduction	diminution	loss	depletion	exhaustion	decrease	decline	fall	drop
+demand	necessity	want
+physician	god	deity
+automobile	machine	car
+blessing	word	praise
+company	organization	business
+plant	tree	burr_oak
+athletics	game	sporting_event
+automobile	machine	car
+culture_system	cell_system	culture
+operating	controlling	driving
+border	boundary	line	limit
+agreement	arrangement	barter	commerce
+assessment	duty	fee	financial_penalty
+paddle	flipper
+bunkhouse	cabin	cottage	hut
+casing	coating	cover	covering
+geographic_feature	geographic_point	island	islet	landform	location	place
+carter	horseman	transporter	wagoner
+bobbies	cops	enforcement_agent	lawman	official	police	policeman	public_servant
+imperial	relating_to_colonies	colonial
+delay	backwardness	slowness	hindrance
+psychology	environmentalism	psychology_of_environment	environmental_science	science
+cleric	religious_official	priest	church_leader
+autonomous	free	self-reliant	self-sufficient	unattached
+actress	entertainer	celebrity	public_figure
+slang	language	vocabulary	word	term
+hue	shade	tint	tone	pigment
+depression	apathy	lethargy	stagnation
+devil	evil_one	adversary	opposer	enemy
+rod	stick	staff	cane
+road	highway	thoroughfare	artery	route	street	lane	path	way	drive	boulevard	avenue	parkway	expressway	turnpike
+medicine	science	biology	research	technology	innovation	advancement	discovery	development	progress	breakthrough	achievement	milestone	advance	innovation
+author	writer	novelist	short_story_writer	essayist	playwright	screenwriter	poet	literary_figure	artist	creative	intellectual	thinker	visionary	wordsmith
+person	individual	authority	guardian	custodian	protector	sentinel	warden	chaperone	escort	usher	bouncer	controller	supervisor	manager
+money	funds	cash	savings	investment	payment	transaction	finance	banking	economics	wealth	fortune	assets	resources	capital
+animal	creature	beast	mythical_creature	fictional_creature	legendary_creature	mythological_creature	supernatural_creature	paranormal_creature	cryptid	monster	demon	devil	alien	extraterrestrial
+idea	concept	subject	topic	motif	message	moral	lesson	principle	truth	belief	conviction	perspective	worldview	standpoint
+criminal	thief	burglar	bandit	highwayman	outlaw	mugger	pickpocket	swindler	con_artist	fraudster	scammer	extortionist	blackmailer	embezzler
+parent	female_parent	woman	person	female	adult	human	individual	being	creature	entity	soul	spirit	mind	consciousness
+assessment	evaluation	examination	measure	benchmark	survey	poll	quiz	experiment	study	research	inquiry	investigation	analysis	review
+army_general	military_officer	officer	army_person	soldier	serviceman	military_man	military	armed_force	military_force	army	military_unit	army_unit	regiment	corps
+architect	architectural_designer	draftsman	plan_maker	interior_designer	designer	craftsperson	artisan	creator	craftsman	artist	visual_artist	fine_artist	applied_artist	designer_artist
+flaming	combustion	fire	conflagration	blaze	inferno	wildfire	bushfire	firestorm	heat	energy	power	force	phenomenon	natural_phenomenon
+city	town	village	settlement	locality	place	geographical_location	location	position	spot	site	area	region	zone	district
+city	town	village	settlement	locality	place	geographical_location	location	position	spot	site	area	region	zone	district
+greek_letter	greek_alphabet	alphabet	writing_system	language	communication	information_exchange	knowledge	data	facts	information	mathematics	science	academic_discipline	field_of_study
+vest	clothing	garment	cloth	textile	material	wear	fashion	apparel	attire	raiment	wardrobe	clothier	tailor	seamster
+road	street	thoroughfare	highway	motorway	freeway	road_network	transportation	transportation_system	infrastructure	civil_engineering	engineering	technology	science	applied_science
+teacher	instructor	tutor	guide	advisor	counselor	confidant	friend	philosopher	sage	wise_person	guru	master	expert	professional
+power	energy	wattage	electricity	electrical_power	energy_unit	measurement	metric	standard	unit	quantity	value	magnitude	size	dimension
+scout	military_personnel	army_personnel	soldier	military	person	human	living_being	entity	individual	being	creature	soul	life	spirit
+sequence	round_robin	division	circularity	configuration	cycle	event	happening	occurrence	incident	situation	circumstance	state_of_affairs	condition	affair
+rinse	scrubbing	cleanser	detergent	cleaning	household_chore	responsibility	obligation	duty	task	activity	pursuit	pastime	hobby	interest
+folder	connector	bounding	band	circlet	brace	brace_and_bit	clasp	clamp	cleat	clinch	dog	fastener	fixing	fitting
+sunflower_state	state	us_state	geographical_area	location	place	region	area	terrain	landscape	countryside	district	domain	realm	sphere
+editor	chairperson	manager	boss	executive	superior	authority	official	public_official	dignitary	vip	notable	celebrity	famous_person	personality
+art	artwork	mixed_media	image	composition	picture	visual_representation	representation	portrayal	depiction	illustration	drawing	painting	sketch	design
+symptom	medical_condition	illness	disease	problem	issue	difficulty	hardship	challenge	struggle	trial	tribulation	affliction	pain	suffering
+county	county_seat	administrative_district	jurisdiction	political_division	region	area	location	place	terrain	landscape	countryside	district	domain	realm
+actress	artist	celebrity	famous_person	public_figure	personality	performer	entertainer	individual	being	creature	soul	life	spirit	entity
+institution	organization	university
+physics	science
+person	philosopher
+event
+origin
+person	psychologist	developmental_psychologist
+hunter
+government	organization
+publisher	organization
+expression	mathematical_expression
+contractor	worker	construction_worker	blue-collar_worker	laborer	wage_earner	employee	earner	person	human	being	creature	entity	object	thing
+calendar_month	month	time_period	period	interval	era	epoch	age	era	phase	stage	point	instance	occurrence	happening
+thoroughfare	passageway	way	lane	path	route	course	line	track	rail	beam	bar	rod	pole	stick
+cyberattack	computer_attack	attack	action	behavior	conduct	course	way	manner	style	method	procedure	process	system	technique
+city	municipality	town	village	settlement	place	locality	location	area	region	district	zone	territory	country	land
+land_area	area	region	section	part	portion	piece	segment	division	unit	group	assortment	collection	gathering	set
+psi_power	supernatural_power	power	ability	capacity	capability	competence	proficiency	skill	talent	knack	flair	genius	gift	endowment
+insurgent	revolutionary	dissenter	protester	demonstrator	activist	campaigner	crusader	advocate	proponent	supporter	backer	champion	ally	comrade
+metric_unit	unit	measure	quantity	amount	portion	part	fraction	percentage	proportion	ratio	rate	degree	extent	level
+band_member	artist	musician	performer	entertainer	artiste	player	instrumentalist	singer	vocalist	songwriter	composer	author	writer	creator
+breakfast_cereal	food	solid_food	plant_product	agricultural_product	grain	gramineae	monocot	flowering_plant	angiosperm	plant	eukaryote	organism	living_thing	entity
+medication	drug	anticoagulant	antiplatelet_agent	thienopyridine	antithrombotic_agent	cardiovascular_drug	pharmaceutical_drug	prescription_drug	medical_drug	chemical_compound	organic_compound	chemical	substance	matter
+magistrate	judge	adjudicator	jurist	legal_expert	public_official	government_official	civil_servant	employee	worker	individual	person	human_being	homo_sapiens	primate
+plant	eukaryote	organism	living_thing	entity	flowering_plant	angiosperm	monocot	gramineae	grain	agricultural_product	plant_product	food	solid_food	meal
+household_item	utensil	handheld_item	tool	device	object	physical_object	physical_entity	entity	artifact	human_artifact	man_made_object	product	commodity	good
+stone	rock	mineral	inorganic_compound	chemical_compound	substance	matter	physical_object	physical_entity	entity	object	construction_material	building_material	pavement	surface
+control	device	electronic_device	input_device	computer_peripheral	electronic_peripheral	peripheral	hardware	component	part	assembly	device	object	physical_object	physical_entity
+virus	pathogen	microorganism	prokaryote	organism	living_thing	entity	virion	infective_agent	infectious_agent	biological_agent	biological_entity	entity	thing	object
+specialist	professional	craftsperson	artisan	craftsman	maker	worker	employee	individual	person	human_being	homo_sapiens	primate	mammal	vertebrate
+biological_process	process	event	happening	occurrence	incident	circumstance	situation	state	condition	aspect	feature	characteristic	attribute	property
+natural_disaster	catastrophe	disaster	emergency	crisis	event	happening	occurrence	incident	phenomenon	circumstance	situation	predicament	plight	quandary
+landmass	earth_mass	territory	country	nation	state	place	location	spot	area	region	zone	district	province	municipality
+traveler	tourist	sightseer	adventurer	globetrotter	backpacker	explorer	itinerant	wayfarer	walker	pedestrian	passerby	stroller	rambler	roamer
+footwear	footgear	boot	slipper	sandal	loafer	sneaker	pump	heel	wedge	platform	espadrille	moccasin	clog	flip-flop
+political_figure	government_official	politician	leader	executive	administrator	bureaucrat	official	dignitary	authority	figurehead	vip	public_figure	celebrity	notable
+journalist	writer	author	commentator	columnist	pundit	media_personality	public_figure	celebrity	notable	personality	figure	individual	person	being
+clothing	garment	attire	apparel	outfit	costume	uniform	scrubs	lab_coat	smock	frock	gown	robe	vestment	regalia
+currency	cash	capital	funds	finance	economics	wealth	fortune	riches	assets	resources	possessions	property	belongings	estate
+problem	issue	difficulty	complication	obstacle	hindrance	impediment	barrier	block	obstruction	hitch	setback	trouble	misfortune	adversity
+poet	writer	author	songwriter	lyricist	versifier	bard	minstrel	performer	artist	creative	individual	person	being	entity
+hair	body_part	part	fibre	material	stuff	substance	thing	entity	object	item	good	product	commodity	merchandise
+human	animal	being	person	individual	creature	thing	entity	object	item	good	product	commodity	merchandise	chattel
+organ	body_part	part	container	receptacle	vessel	thing	entity	object	item	good	product	commodity	merchandise	material
+light	radiation	energy	heat	warmth	temperature	natural_phenomenon	phenomenon	thing	entity	object	item	good	product	commodity
+activity	job	work	action	process	thing	entity	object	item	good	product	commodity	merchandise	service	ministration
+island	landmass	place	geographic_feature	terrain	ground	earth	dirt	soil	thing	entity	object	item	good	product
+horse	animal	being	creature	thing	entity	object	item	good	product	commodity	merchandise	material	stuff	substance
+comic_character	character	thing	entity	object	item	good	product	commodity	merchandise	creation	invention	fabrication	manufacture	construction
+belt	clothing	garment	wear	apparel	covering	attire	raiment	costume	thing	entity	object	item	good	product
+building	construction	structure	edifice	fabrication	thing	entity	object	item	good	product	commodity	merchandise	power_station	facility
+tropical_depression	storm	tropical_storm	hurricane	cyclone	atmospheric_phenomenon	natural_phenomenon	physical_phenomenon	phenomenon	event	occurrence	happening	incident	circumstance	situation
+guarantor	insurer	underwriter	surety	sponsor	backer	supporter	endorser	advocate	champion	promoter	proponent	defender	apologist	partisan
+physicist	scientist	researcher	scholar	academic	intellectual	thinker	philosopher	theorist	sage	genius	luminary	giant	titan	colossus
+software	application	program	utility	tool	multimedia	technology	innovation	advancement	development	improvement	upgrade	refinement	enhancement	optimization
+pile	heap	mound	assortment	collection	accumulation	aggregation	agglomeration	cluster	group	set	assemblage	array	series	sequence
+sheep	mammal	animal	quadruped	herbivore	ungulate	ruminant	livestock	domestic_animal	farm_animal	agricultural_animal	source_of_wool	source_of_meat	source_of_milk	source_of_cheese
+psychology	social_science	science	study	field	discipline	area	branch	subject	topic	specialty	focus	concentration	interest	passion
+fort	military_installation	building	structure	fortification	stronghold	fortress	castle	keep	citadel	bastion	rampart	bulwark	defense	protection
+nut	seed	food	plant	tree	fruit	edible	nutritious	healthy	delicious	sweet	crunchy	buttery	savory	satisfying
+boundary	layer	region	atmosphere	environment	space	zone	area	division	compartment	section	segment	part	portion	fraction
+software	video_editor	program	application	converter	tool	utility	product	item	object	commodity	good	substance	material	entity
+software	program	application	tool	utility	product	item	object	commodity	good	substance	material	entity	anti-spam_software	filter
+country	region	place	government	state	nation	polity	organization	institution	body	group	collective	entity	political_entity	sovereign_state
+band	musician	artist	group	ensemble	collective	organization	institution	entity	performer	entertainer	professional	worker	person	human
+place	town	city	village	community	settlement	location	area	region	zone	district	neighborhood	hamlet	burrough	township
+sculpture	statue	artwork	art	creation	product	item	object	commodity	good	substance	material	entity	artistic_work	figurative_artwork
+mountain	range	peak	hill	elevation	terrain	landform	feature	geography	earth	planet	celestial_body	astronomical_object	physical_object	object
+document	paper	text	writing	request	appeal	plea	communication	message	statement	declaration	assertion	proposition	claim	idea
+tool	utility	program	application	software	product	item	object	commodity	good	substance	material	entity	web_crawler	information_retrieval_system
+store	shop	business	organization	institution	entity	place	location	area	space	room	building	structure	construction	artifact
+haven	asylum	refuge	hideaway	retreat	safe_place	shelter	protection	sanctuary	asylum	refuge	shelter	retreat
+instrumentalist	wind_instrumentalist	musician	band_member	wind_band_member	hornist	orchestra_member	instrumentalist	wind_instrumentalist	musician	band_member	wind_band_member	orchestra_member
+man	male	person	politician	democratic_politician	american_politician	president	former_president	husband_of_hillary_clinton	governor_of_arkansas	yale_law_school_graduate	georgetown_university_graduate	politician	democrat	american
+child	young_child	minor	offspring	son	daughter	youth	child	young_child	offspring	son	daughter	youth
+uncertainty	doubt	incredulity	mistrust	disbelief	skepticism	doubt	uncertainty
+direction	left_hand_side	left_side	political_left	liberal	left_wing
+man	male	person	celebrity	singer	entertainer	actor	mitchell_brown
+bullfighter	toreador	matador
+currency	bangladesh_taka	taka
+flat	rented_flat	apartment	rented_apartment	housing	accommodation	dwelling
+tableware	dishware	dinnerware	flatware	silverware	utensil	kitchenware	household_item	homeware	furnishing	decoration	object	thing	entity	item
+scientist	researcher	academic	intellectual	professional	worker	person	human	being	creature	individual	soul	entity	thing	item
+racing_game	car_game	video_game	computer_game	game	pastime	activity	recreation	entertainment	leisure	pursuit	hobby	preoccupation	obsession	mania
+dirt	filth	grime	muck	gunk	crud	slime	ooze	pus	discharge	waste	refuse	garbage	trash	debris
+bicycle	vehicle	machine	invention	contraption	device	apparatus	appliance	equipment	implement	tool	utensil	object	thing	item
+athlete	runner	competitor	olympian	individual	human	being	creature	organism	entity	thing	item	matter	substance	entity
+actress	performer	artist	entertainer	celebrity	public_figure	individual	human	being	creature	organism	entity	thing	item	matter
+country	nation	state	island	territory	landmass	region	area	place	location	spot	site	setting	environment	surroundings
+antiquarian	collector	bibliophile	historian	scholar	researcher	academic	intellectual	professional	worker	person	human	being	creature	individual
+support	promotion	backing	endorsement	championing	defense	protection	representation	advocacy	lobbying	cause	issue	matter	topic	subject
+peerage	nobility	aristocracy	elite	upper_class	power_elite	establishment	ruling_class	jet_set	mandarinate	plutocracy	ruling_caste	oligarchy	demimonde	social_elite
+use	utilize	employ	don	adorn	carry	put_on	cover	clothe	array	dress	costume	outfit	raiment	attire
+deception	fraud	swindle	scam	hoax	artifice	trickery	deceit	forgery	pretense	impersonation	masquerade	fakery	sham	humbug
+layer	level	tier	division	section	subdivision	compartment	segment	band	belt	stripe	zone	region	area	locality
+reservoir	body_of_water	lake	pond	pool	lagoon	loch	mere	tarn	basin	dam	impoundment	water_source	water_supply	water_reservoir
+geostatistical_interpolation	interpolation	estimation	prediction	forecasting	modeling	simulation	analysis	research	science	knowledge	information	data	facts	details
+aviator	airman	flier	aeronaut	navigator	commander	captain	skipper	master	helmsman	operator	driver	engineer	technician	specialist
+politician	activist	public_servant	official	leader	stateswoman	government_official	minister	secretary	deputy	representative	delegate	advisor	consultant	expert
+gemstone	jewel	stone	mineral	crystal	gem	precious_stone	semiprecious_stone	birthstone	ornament	decoration	treasure	keepsake	heirloom	collectible
+golf_term	golf	sport	game	competition	athletics	recreation	leisure	activity	pastime	pursuit	hobby	interest	skill	talent
+surgery	medical_procedure	treatment
+lumpy_condition	shape	structure
+car	vehicle	transportation
+counter	stand	furniture
+cruelty	harassment	aggression
+age	time	duration
+army	military	force
+rice_wine	alcohol	drink
+history	record	account
+particle	time	moment
+crustal_movement	diastrophism	earth_science	geology	physical_geography	geography	science	academic_discipline	discipline	field	subject	study	inquiry	investigation	research
+honeypot	software	computer_program	program	code	computer_code	computer_language	programming_language	language	tool	instrument	device	apparatus	appliance	equipment
+french_sylvette	dove	bird	columbidae	pigeon	animal	fauna	life	living_thing	organism	being	entity	object	matter	thing
+government_assistance	government_aid	government_grant	grant	funding	financing	bankroll	money	currency	coin	note	bill	legal_tender	medium_of_exchange	wealth
+game_master	referee	judge	official	authority	person	human	human_being	individual	somebody	soul	being	entity	object	matter
+progress	development	improvement	melioration	betterment	change_for_the_better	amelioration	advance	forward_movement	headway	gain	increase	rise	growth	expansion
+portal	door	passage	entrance	exit	opening	aperture	hole	gap	breach	break	crack	fissure	crevice	rift
+banner	standard	pennant	ensign	military_flag	national_flag	symbol	emblem	sign	token	representation	manifestation	indication	evidence	proof
+bacteriophage	virus	microorganism	organism	living_thing	being	entity	object	matter	thing	substance	material	stuff	entity	being
+naked_person	nude_figure	nude	unclothed_person	person	human	human_being	individual	somebody	soul	being	entity	object	matter	thing
+liberation	release	freeing	freeing_from_slavery	grant	permit	allowance	authorization	legal_authorization	law	rule	regulation	standard	doctrine	principle
+pen	writing_implement	fountain_pen	tool	feather	outgrowth	excrescence	growth	protuberance	protrusion	projection	extension	part	component	constituent
+rod	conductor	electrical_conductor	device	metal	solid	matter	substance	physical	material	tangible	real	actual	existent	being
+technique	method	process	separation_technique	chemistry	science	knowledge	learning	study	investigation	inquiry	examination	inspection	scrutiny	analysis
+meat	food	protein	animal_product	beef	cattle	domesticated_animal	ruminant	ungulate	mammal	vertebrate	animal	being	creature	living_thing
+system	method	technique	musical_system	music	art	form	medium	expression	communication	language	speech	system_of_signs	symbol_system	code
+inundation	water	substance	material	physical	tangible	real	actual	existent	being	environmental	natural	physical	geographical	spatial
+carnivore	mammal	vertebrate	animal	being	creature	living_thing	pest	nuisance	animal_nuisance	threat	danger	evil	difficulty	problem
+battle	conflict	armed_conflict	fighting	war	warfare	military	armed	combat	force	violence	bloodshed	killing	murder	crime
+band	group	ensemble	music_group	art	form	medium	expression	communication	language	speech	system_of_signs	symbol_system	code	system
+alteration	adjustment	change	deviation	departure	difference	displacement	movement	shift	transfer	variation	change_of_direction	change_of_position	change_of_state	change_of_velocity
+action_reaction	response	reaction	reply	answer	response	feedback	consequence	result	outcome	effect	chemical_reaction	immunological_reaction	physical_reaction	physiological_reaction
+dessert	custard	zabaglione	italian_dessert	italian_custard	egg_custard	egg_dish	creamy_dessert	creamy_custard	creamy_dish	sweet_dessert	sweet_custard	sweet_dish	cold_dessert	cold_custard
+steak	meat	beef	chuck_steak	round_steak	eye_round_steak	shoulder_steak	blade_steak	top_blade_steak	bottom_blade_steak	beef_steak	meat_cut	tenderloin	rib_steak	sirloin_steak
+voters	electorate	people	constituency	populace	nation	body_of_voters	citizens	qualified_voters	registered_voters	voting_population	voting_public	potential_voters	active_voters	eligible_voters
+dealer	merchant	seller	vendor	retailer	trader	businessperson	salesperson	distributor	wholesaler	supplier	middleman	agent	broker	merchandiser
+book	leger	ledger	accounting_book	financial_statement	business_record	journal	account_book	record_book	register	public_record	written_account	financial_document	business_document	historical_document
+wax	paraffin	hydrocarbon	organic_compound	alkane	saturated_hydrocarbon	white_wax	mineral_wax	petroleum_wax	candle_wax	sealing_wax	lubricating_wax	polishing_wax	waterproofing_wax	electrical_insulation
+supervision	oversight	management	direction	control	guidance	leadership	authority	superintendence	administration	governance	monitoring	regulation	oversight_and_supervision	leadership_and_management
+diadem	crown	tiara	headpiece	headdress	circlet	headband	royal_diadem	royal_crown	royal_tiara	symbol_of_royalty	symbol_of_power	symbol_of_authority	symbol_of_status	symbol_of_importance
+legging	gaiter	leg_cover	leg_covering	legwear	foot_covering	footwear	clothing	attire	vestment	textile	fabric	material	substance	stuff
+tree	broadleaf_tree	oak_tree	evergreen_tree	plant	organism	living_being	biotic	entity	object	matter	material	substance	stuff	being
+container	vessel	tank	apparatus	device	machine	tool	instrument	appliance	equipment	apparatus	system	setup	mechanism	gadget
+building	structure	house	home	dwelling	habitation	accommodation	lodging	shelter	roof	covering	enclosure	containment	receptacle	container
+book	literary_work	fiction	novel	literature	art	creative_work	work	product	creation	thing	entity	object	matter	material
+place_of_birth	location	address	site	spot	area	region	territory	division	boundary	line	shape	figure	composition	structure
+actor	performer	artist	entertainer	person	human	individual	being	entity	object	matter	material	substance	stuff	thing
+revenue_service	government_agency	government	organization	institution	body	group	team	collective	unit	entity	object	matter	material	substance
+medical_condition	disease	disorder	ailment	illness	sickness	health_problem	problem	issue	difficulty	challenge	obstacle	barrier	hindrance	impediment
+university	higher_education_institution	educational_institution	institution	organization	body	group	team	collective	unit	entity	object	matter	material	substance
+historian	ancient_historian	roman_historian	greek_historian	ancient_greek_historian	non-christian_writer	biographer	ancient_biographer	roman_biographer	greek_biographer	non-christian_biographer	antiquity_historian	author	roman_author	greek_author
+city	american_city	tennessee_city	city_in_tennessee	county_seat	knoxville_county_seat	metropolitan_area	knoxville_metropolitan_area	urban_area	knoxville_urban_area	population_center	knoxville_population_center	settlement	knoxville_settlement	municipality
+whale	baleen_whale	rorqual_whale	minke_whale	small_whale	medium-sized_whale	marine_mammal	whalebone_whale	mysticeti	cetacean	mammal	animal	vertebrate	chordate	bilateria
+computer_expert	computer_programmer	software_developer	security_expert	cyber_security_expert	computer_science_expert	information_technology_expert	programmer	software_engineer	security_engineer	specialist	computer_professional	technical_expert	expert	professional
+chemical_compound	inorganic_compound	potassium_salt	alkali_metal_salt	halogen_compound	iodine_compound	potassium_iodide	salt	iodide	chemical_substance	substance	matter	physical_matter	physical_substance	material
+person	human	male	american	scientist	climatologist	oceanographer	climate_scientist	earth_scientist	researcher	academic	professor	educator	speaker	activist
+surface	floor_covering	floor	covering	material	construction_material	home_improvement_material	interior_design_material	architectural_element	building_material	decoration	interior_decoration	ornament	embellishment	accessory
+building	educational_building	school	kindergarten	elementary_school	primary_school	secondary_school	high_school	college	university	campus	educational_campus	educational_institution	learning_center	institution
+liquid	water	dirty_water	dishwater	dishwashing_water	cleaning_agent	detergent	soap	chemical	household_chemical	cleaning_supply	household_supply	chore	household_chore	task
+software	computer_software	programming_software	development_tool	compiler	translator	code_translator	code_converter	code_generator	code_optimizer	computer_program	application_software	utility_software	system_software	software_product
+officer	military_officer	naval_officer	us_military_officer	us_naval_officer	commander	military_commander	naval_commander	us_military_commander	us_naval_commander	war_veteran	us_war_veteran	us_navy_war_veteran	us_vietnam_war_veteran	author
+cricketer	fielder	baseball_player	softball_player	sport_person	athlete	person	individual	being	soul	mortal	human	homo_sapiens	earthling	denizen
+virus	poxvirus	orthopoxvirus	chordopoxvirinae	nucleocytoplasmic_large_dna_virus	eukaryotic_virus	dsdna_virus	non-segmented_positive-sense_ssdna_virus	negative-sense_single-stranded_rna_virus	helical_virus	rod-shaped_virus	enveloped_virus	enveloped_ssrna_virus	cytoplasmic_virus	intracellular_virus
+plank	lumber	timber	wood	building_material	material	stuff	matter	physical_entity	tangible_entity	solid	hard_solid	rigid_solid	brittle_solid	wooden_object
+comet	icy_body	small_solar_system_body	trans-neptunian_object	kuiper_belt_object	oort_cloud_object	centaur	scattered-disk_object	minor_planet	natural_satellite	astronomical_object	celestial_object	space_object	physical_object	material_object
+bar	metal_bar	iron_bar	steel_bar	structural_member	construction_material	material	stuff	matter	physical_entity	tangible_entity	solid	hard_solid	rigid_solid	metallic_solid
+medical_device	medical_instrument	diagnostic_tool	blood_pressure_monitor	pressure_gauge	measuring_instrument	gauge	device	apparatus	contrivance	gadget	tool	implement	utensil	appliance
+optical_instrument	instrument	tool	device	apparatus	contrivance	gadget	machine	mechanism	system	tool	implement	utensil	appliance	scientific_instrument
+movement	motion	displacement	change_of_position	change_of_location	change_of_place	change	alteration	modification	transformation	metamorphosis	evolution	revolution	development	progress
+slander	defamation	libel	character_assassination	denigration	disparagement	vilification	abuse	invective	insults	badmouthing	trashing	putting_down	belittling	nasty_comments
+intercourse	sexual_intercourse	body_part_intercourse	coitus	sexual_activity	congress	copulation	sexual_congress	sexual_contact	carnal_knowledge	venery	carnal_copulation	sexual_connection	sexual_relationship	sexual_relations
+intruder	trespasser	burglar	robber	thief	housebreaker	unwelcome_guest	sneak_thief	night_prowler	peeping_tom	peeping_peeping_tom	voyeur	stalker	pervert	child_molester
+container	box	case	envelope	receptacle	pod	sheath	shell	casing	housing	cartridge	tablet	pill	caplet	capsule
+drink	beverage	pear_drink	alcohol	cider	hard_cider	alcoholic_beverage	fermented_drink	fruit_drink	sweet_drink	refreshing_drink	alcoholic_cider	pear_alcoholic_drink	fermented_pear_drink	hard_pear_cider
+person	tarleton	person_of_interest	man	individual	human	adult	male	citizen	guy	feller	chap	bloke	dude	fellow
+roman_emperor	person	ruler	emperor	king	monarch	statesman	sovereign	sovereign_ruler	politician	political_leader	historical_figure	historical_person	ancient_roman	ancient_roman_ruler
+deviation	diversion	alternate_route	alternate_pathway	roundabout_way	circuitous_route	roundabout_pathway	off_the_beaten_track	off_the_beaten_path	scenic_route	scenic_bypass	deviation_from_route	alternate_direction	bypass	side_trip
+coat	raincoat	waterproof_coat	waterproof_jacket	mackintosh	oilskin_coat	raingear	wet_weather_gear	inclement_weather_gear	weather_proof_coat	all_weather_coat	waterproof_garment	waterproof_outerwear	weatherproof_jacket	foul_weather_gear
+contest	game	contest_of_skill	competition	match	second_match	rematch	return_match	grudge_match	rubber_match	tiebreaker	second_leg	second_round	tiebreak	playoff
+park	nature_park	national_park	natural_reserve	protected_area	natural_heritage_site	protected_nature_reserve	wildlife_sanctuary	nature_conservation_area	natural_resource	ecological_sanctuary	nature_retreat	wildlife_habitat	birdwatching_spot	wetland_preserve
+subsurface_water	water	matter	substance	physical_substance	natural_substance	material	physical_object	object	entity	thing	abstraction	concept	notion	idea
+sound	noise	vibration	mechanical_vibration	motion	event	occurrence	happening	state_change	change	process	action	activity	undertaking	task
+newspaper	periodical	publication	document	written_communication	communication	social_interaction	interaction	action	activity	undertaking	task	endeavor	pursuit	attempt
+ending	conclusion	finale	finish	resolution	outcome	result	effect	consequence	upshot	aftermath	development	event	occurrence	happening
+chemical_compound	compound	substance	physical_substance	natural_substance	material	physical_object	object	entity	thing	abstraction	concept	notion	idea	mental_object
+woman	female	person	individual	human_being	creature	living_thing	organism	animal	vertebrate	mammal	primate	hominoid	hominid	hominanthrope
+man	male	person	individual	human_being	creature	living_thing	organism	animal	vertebrate	mammal	primate	hominoid	hominid	hominanthrope
+chemical_compound	compound	substance	physical_substance	natural_substance	material	physical_object	object	entity	thing	abstraction	concept	notion	idea	mental_object
+performance	art_form	art	creative_work	work	product	artifact	object	entity	thing	abstraction	concept	notion	idea	mental_object
+edge	boundary	limit	extent	parameter	dimension	measure	quantity	amount	number	numeral	symbol	mark	sign	indicator
+farm	ranch
+range	colour_range	palette
+bunch	bouquet	posy
+city	municipality	location	place	cancun
+amount_of_money	tenpence
+fallacy	defective_argument	straw_man
+sensation	feeling	pain	hurt
+occupation	tailor	seamster
+tree	flowering_tree	shrub	ornamental_tree	laburnum
+museum	place	location	fruitlands
+actress	celebrity	woman	person	human	mammal	animal	organism	being	living_thing	creature	entity	soul	spirit	self
+actress	celebrity	woman	person	human	mammal	animal	organism	being	living_thing	creature	entity	soul	spirit	self
+laborer	worker	employee	person	human	mammal	animal	organism	being	living_thing	creature	entity	soul	spirit	self
+show	program	television_series	entertainment	media	product	work	creation	output	result	artifact	commodity	good	item	object
+text	writing	publication	document	information	message	communication	content	knowledge	idea	concept	notion	thought	impression	feeling
+assistance	help	support	funding	money	capital	wealth	resources	assets	belongings	possessions	property	goods	materials	items
+house	building	structure	shelter	dwelling	accommodation	abode	residence	home	place	location	spot	site	setting	environment
+change	transformation	alteration	modification	variation	mutation	deviation	difference	distinction	contrast	opposition	contradiction	conflict	disagreement	discord
+wind	breeze	air	gas	element	matter	substance	material	thing	object	item	entity	being	existence	reality
+battalion	unit	military_unit	army	military	force	organization	institution	group	collective	assembly	multitude	throng	crowd	mass
+extra_part	spare_part	reserve	backup	provision	resource	supply	requisite	necessity	essential	fundamental	basic	elemental	ingredient	component
+form	design	shape	create	produce	construct	build	develop	fabricate	manufacture	assemble	compose	write	compose	do
+county	shire	land	area	region	place	location	locality	site	spot	scene	venue	setting	theater	environment
+leader	politician	public_figure	person	individual	human	being	creature	entity	organism	life_form	sentient_being	self_aware_being	rational_being	thinking_being
+scholar	academic	professor	educator	teacher	faculty	staff	employee	worker	laborer	breadwinner	earner	provider	head_of_household	family_member
+color	shade	hue	tone	tint	pigmentation	property	characteristic	attribute	quality	aspect	feature	detail	particular	idiosyncrasy
+fruit	vegetable	gourd	plant	organism	life_form	living_thing	entity	being	object	item	thing	stuff	matter	substance
+person	individual	human	being	creature	entity	organism	life_form	sentient_being	self_aware_being	rational_being	thinking_being	conscious_being	aware_being	perceptive_being
+plant	clover	legume	herb	forb	flower	blossom	bloom	plant_life	flora	vegetation	plant_kingdom	greenery	foliage	verdure
+piece	part	section	division	segment	bit	fragment	portion	item	thing	object	entity	existence	being	phenomenon
+effulgence	glowing	light	emission	emanation	discharge	phenomenon	energy	physics	science	field	study	subject	discipline	knowledge
+joining	connection	bond	link	tie	association	relation	relationship	interdependence	dependency	association	interaction	involvement	participation	cooperation
+economics	finance	aid	development	cooperation	international_relations	politics	government	organization	institution	society	humanity	culture	civilization	world
+undertow	tide	current	water	fluid	liquid	substance	matter	universe	cosmos	space	nature	environment	reality	existence
+station	facility	building	structure	space	science	technology	engineering	knowledge	learning	education	development	progress	civilization	history
+official	person	assistant	aide	advisor	representative	agent	employee	worker	professional	expert	specialist	authority	resource	asset
+memory	experience	knowledge	information	data	intelligence	cognition	thought	consciousness	mind	soul	spirit	self	being	existence
+cookie	food	dessert	snack	treat	pastry	baked_good	confection	sweet	carbohydrate	organic_compound	chemical	substance	matter	universe
+verification	identification	authorization	security	protection	safety	trust	reliability	confidence	belief	faith	hope	optimism	positivity	happiness
+award	donation	funds	money	wealth	resources	assets	possessions	property	goods	materials	objects	artifacts	creations	products
+fingernail	toenail	nail	fastener	hardware	metal	object	metallic_element	element	substance	physical_thing	material	matter	physical_object	object
+stonecutter	artisan	sculptor	artist	craftsperson	worker	laborer	tradesperson	professional	person	human	animal	organism	being	entity
+mark	designation	sign	score	grade	rating	evaluation	assessment	judgment	opinion	view	standpoint	perspective	position	stance
+prexy	head	leader	principal	administrator	official	person	human	animal	organism	being	entity	creature	life_form	living_thing
+hipparcos	satellite	spacecraft	probe	vehicle	machine	device	object	physical_object	material	matter	physical_thing	substance	entity	being
+website	webpage	website	web_page	web_resource	web_content	web_document	content	information	knowledge	idea	concept	thought	abstraction	entity
+bislama	language	communication_system	system	entity	concept	abstraction	idea	thought	consciousness	awareness	mental_activity	mental_process	psychological_process	cognitive_process
+district_court	court	tribunal	institution	organization	group	assembly	gathering	assemblage	body	entity	being	object	physical_object	material
+violin	string_instrument	musical_instrument	instrument	device	object	physical_object	material	matter	physical_thing	substance	entity	being	creature	life_form
+streptomyces	bacteria	prokaryote	microorganism	organism	being	entity	creature	life_form	living_thing	biological_entity	biological_object	biological_system	living_system	system
+border	decorative_border	frame
+effect	phenomenon	placebo_effect
+arch	bridge	structure
+artist	rodin	sculptor
+at-bat	baseball_statistic	run_batted_in
+body_of_people	group	staff
+century	historical_period	20th_century
+musical_piece	speech	impromptu
+circle	geographic_line	equator
+barrier	opening	gate
+actor	artist	performer	celebrity	public_figure	indian	woman	asian	human	being	creature	organism	life	matter	existence
+loan	debt	financial_instrument	security	investment	bond	fixed_income	income_instrument	financial_asset	asset	property	resource	possession	wealth	money
+rugby_team	sports_team	team	organization	group	entity	body	club	association	society	institution	corporation	business	enterprise	entity
+check	payment	financial_instrument	negotiable_instrument	financial_asset	asset	property	resource	possession	wealth	money	currency	tender	medium_of_exchange	store_of_value
+policy	plan	strategy	course_of_action	approach	government_policy	national_policy	public_policy	social_policy	economic_policy	political_policy	regulatory_policy	administrative_policy	fiscal_policy	monetary_policy
+ship	vessel	craft	boat	watercraft	warship	destroyer	naval_vessel	military_vessel	armed_vessel	floating_vessel	transportation	conveyance	vehicle	machine
+cricketer	sportsman	athlete	competitor	sportsperson	bowler	fast_bowler	australian	man	male	adult	human	being	creature	organism
+action	deed	effort	activity	undertaking	trial	endeavor	enterprise	project	task	mission	operation	procedure	process	method
+government	administration	regime	authority	leadership	political_system	military_government	feudal_government	japanese	society	culture	civilization	community	people	folks
+thinking	reasoning	cognition	intellect	mind	consciousness	awareness	perception	experience	knowledge	understanding	wisdom	intelligence	rationality	logic
+american	activist	politician	california_state_senator	california_state_assembly_member	san_francisco_board_of_supervisors_member	lawyer	democrat	woman	person	female	adult	human	mammal	animal
+coin	currency	money	six_pence	six_pennies	half_a_shilling	silver_coin	penny	numismatic	collectable	artefact	object	matter	substance	physical_entity
+painter	artist	french_artist	post-impressionist	henri_de_toulouse-lautrec	illustrator	printmaker	lithographer	draughtsman	modern_artist	cartoonist	satirist	realist	portraitist	figure_painter
+child	person	dependent	ward	foster_son	foster_daughter	adopted_child	adopted_son	adopted_daughter	orphan	underprivileged_child	vulnerable_child	neglected_child	abused_child	exploited_child
+savoy	brassica_oleracea	vegetable	green	cabbage	leafy_vegetable	cultivar	plant	brassica	crucifer	dicotyledon	angiosperm	embryophyte	viridplantae	eukaryote
+milkwort	polygala_senega	plant	flowering_plant	dicotyledon	angiosperm	embryophyte	viridplantae	eukaryote	herb	perennial	medicinal_plant	wildflower	groundcover	landscape_plant
+politician	american_politician	california_politician	republican	california_state_senator	california_state_assembly_member	lawyer	man	male	adult	human	mammal	animal	person	individual
+grid	network	lattice	mesh	framework	structure	pattern	surface	plane	field	system	organization	arrangement	order	symmetry
+archaeologist	scientist	anthropologist	historian	researcher	scholar	academic	expert	professional	person	individual	human	adult	mammal	animal
+report	document	publication	communication	business_report	financial_report	annual_report	statement	disclosure	filing	submission	form	paperwork	record	data
+wind	air_current	movement_of_air	meteorological_factor	weather_condition	natural_phenomenon	physical_phenomenon	phenomenon	atmospheric_phenomenon	environmental_condition	meteorological_condition	environmental_factor	natural_condition	physical_condition	condition
+dark_spot	solar_feature	solar_phenomenon	astronomical_object	celestial_object	astronomical_body	heavenly_body	celestial_body	solar_object	heavenly_object	physical_entity	physical_object	astronomical_entity	natural_entity	material_entity
+help	aid	assistance	support	cooperation	teamwork	collaboration	service	action	activity	undertaking	endeavor	effort	process	deed
+volcanic_province	geographic_feature	geological_feature	physical_feature	volcanic_area	terrain	landscape	region	area	place	location	volcanic_landscape	volcanic_terrain	volcanic_region	geological_area
+goal	aim	aspiration	objective	target	intention	purpose	wish	desire	hope	dream	fantasy	ambition	aspiration	longing
+fair	exhibition	show	display	demonstration	event	gathering	gathering_of_people	public_event	public_exhibition	public_display	public_demonstration	public_occasion	public_affair	public_gathering
+lake	pond	reservoir	impoundment	body_of_water	expanse_of_water	sheet_of_water	water_body	aquatic_environment	aquatic_habitat	aquatic_ecosystem	aquatic_system	environmental_system	natural_system	physical_system
+idea	thought	concept	impression	belief	opinion	view	perspective	theory	doctrine	philosophy	ideology	mental_construct	conceptualization	intellectual_construct
+magnet	magnetic_material	magnetic_substance	magnetic_object	magnetic_device	magnetic_appliance	electrical_device	electrical_appliance	electrical_equipment	electrical_component	magnetic_component	electrical_component	material	magnetic_substance	magnetic_element
+country	nation	state	republic	socialist_republic	geographical_entity	geographical_area	geopolitical_entity	polity	independent_state	sovereign_state	nation_state	country_state	nation_country	political_entity
+politician	member_of_parliament	parliamentarian	public_figure	government_official	civil_servant	government_employee	state_employee	public_servant	official	functionary	bureaucrat	administrator	executive	leader
+city	municipality	town	urban_area	settlement	locality	community	inhabited_place	populated_place	place	area	location	spot	locale	site
+food	meal	repast	nourishment	nutrition	sustenance	refreshment	comestibles	victuals	provisions	grub	chow	nosh	feed	sustenance
+bedspread	quilt	coverlet	spread	cover	bedding	linens	textiles	fabric	material	stuff	substance	matter	element	ingredient
+representative	spokesperson	press_secretary	public_relations_manager	publicist	media_relations_manager	communications_manager	communications_director	director_of_communications	vice_president_of_communications	senior_vice_president_of_communications	executive_vice_president_of_communications	chief_communications_officer	chief_marketing_officer	chief_executive_officer
+bovine	cow	cattle	livestock	animal	beast	creature	being	organism	entity	individual	person	soul	mind	spirit
+fraternity	sorority	greek_organization	social_group	club	organization	association	society	group	body	entity	unit	collective	whole	totality
+tram	trolley	light_rail	public_transportation	transportation	travel	locomotion	motion	movement	activity	action	process	operation	procedure	method
+expense	cost	expenditure	outlay	payment	disbursement	charge	fee	levy	tax	duty	impost	toll	tariff	assessment
+money	currency	bills	coins	tender	payment	medium_of_exchange	store_of_value	unit_of_account	financial_asset	asset	wealth	property	possessions	belongings
+light_rail	rail	vehicle	conveyance	machine	device	invention	creation	innovation	product	commodity	article	object	entity	thing
+residence	dwelling	home	house	building	structure	edifice	erection	construction	artifact	creation	thing	object	entity	phenomenon
+singer	musician	artist	performer	entertainer	public_figure	celebrity	person	individual	being	creature	animal	organism	life_form	entity
+tropic	zone	region	area	district	locality	place	location	spot	site	position	situation	setting	environment	surroundings
+software	program	code	application	utility	tool	implement	device	instrument	machine	invention	creation	innovation	product	commodity
+eater	feeder	consumer	user	customer	patron	client	guest	visitor	person	individual	being	creature	animal	organism
+paper	material	substance	matter	resource	commodity	product	offering	item	article	object	entity	phenomenon	concept	idea
+harm	injury	hurt	loss	damage	destruction	devastation	ruin	wreckage	havoc	disaster	calamity	catastrophe	tragedy	misfortune
+recognition	acknowledgment	appreciation	understanding	comprehension	knowledge	awareness	consciousness	perception	sensation	experience	feeling	emotion	reaction	response
+war	conflict	battle	engagement	action	event	happening	occurrence	incident	episode	affair	matter	case	situation	circumstance
+military	army	armed_force	soldiery	troops	host	force	band	body	crew	gang	horde	legion	mob	throng
+spiny_headed	acanthocephalan	worm	helminth	parasite	animal	organism	being	entity	creature	individual	soul	mind	spirit	person
+prize	award	accolade	distinction	honor	trophy	medal	ribbon	plaque	citation	certificate	gift	offering	donation	contribution
+film	movie	motion_picture	25th_hour	drama	thriller	crime_thriller	neo_noir	gangster_film	prison_film	art	entertainment	culture	expression	creation
+slime	slop	ooze	sludge	gunk	crud	muck	mire	mud	dirt	filth	excrement	feces	dung	waste
+loyalty	devotion	faithfulness	fidelity	constancy	dedication	commitment	attachment	support	affection	love	passion	zeal	ardor	fervor
+person	harold_w	man	male	individual	being	entity	creature	soul	mind	spirit	life	existence	beingness	reality
+keep	preserve	maintain	protect	defend	guard	conserve	save	shelter	protect	shield	screen	conceal	hide	camouflage
+outline	silhouette	shape	form	figure	image	picture	drawing	sketch	painting	art	representation	depiction	portrayal	interpretation
+author	nancy_milford	woman	female	person	individual	being	entity	creature	soul	mind	spirit	life	existence	beingness
+hat	academic_cap	mortarboard	headgear	covering	protection	clothing_item	garment	attire	apparel	vesture	raiment	dress	clothing	fabric
+person	human	writer	novelist	author	literature_writer	fiction_writer	essayist	poet	writer	literary_figure	cultural_figure	artist	intellectual	celebrity
+policy	economic_policy	government_policy	fiscal_policy	monetary_policy	financial_policy	economic_measure	economic_tool	economic_instrument	economic_strategy	economic_approach	economic_course_of_action	economic_plan	economic_program	economic_initiative
+ship	riverboat	boat	watercraft	vessel	transportation_device	conveyance	vehicle	machine	invention	device	tool	implement	apparatus	contrivance
+seizure	epileptic_seizure	brain_disorder	neurological_condition	medical_condition	chronic_condition	neurological_disorder	health_condition	medical_problem	health_issue	illness	disease	ailment	malady	disorder
+school	educational_institution	high_school	learning_institution	academic_institution	place_of_learning	educational_facility	educational_establishment	educational_organization	educational_center	educational_complex	educational_campus	educational_environment	educational_setting	educational_space
+person	human	writer	journalist	critic	feminist	intellectual	literary_figure	cultural_figure	artist	thinker	philosopher	activist	social_reformer	pioneer
+software_development	computer_science	programming	coding	technology	engineering	open_source_software	open_source_project	free_software	libre_software	collaborative_project	community_project	volunteer_project	non-profit_project	open_innovation
+room	workspace	studio	workshop	atelier	laboratory	workroom	space	facility	workplace	environment	setting	context	surroundings	domain
+person	human	explorer	conquistador	adventurer	spaniard	soldier	military_leader	politician	governor	viceroy	administrator	leader	figurehead	notable
+agriculture	farming	viticulture
+god	deity	odin
+day	day_one
+farmer	agricultural_laborer	sharecropper
+crime	offense	felony
+technology	software	autoresponder
+leaf	frond	vegetation
+business	service	profession
+fish	roe	fish_eggs
+economics	finance	credit
+book_section	book_part	book_component	literary_work	work	composition	writing	text	literature	art	creation	product	artifact	object	thing
+road	thoroughfare	street	way	path	route	track	lane	trail	avenue	boulevard	highway	freeway	expressway	turnpike
+quantity	amount	sum	total	aggregate	collection	set	group	assemblage	array	cluster	bunch	wad	handful	fistful
+cd	disc	cd-rom	cd-r	cd-rw	optical_disc	digital_audio_disc	digital_data_disc	data_storage_device	computer_storage_device	storage_device	electronic_device	device	apparatus	equipment
+video_game	game	software	computer_program	application	program	software_product	product	creation	work	art	entertainment	recreation	leisure_activity	activity
+agitator	demagogue	firebrand	provocateur	incendiary	rabble-rouser	troublemaker	instigator	malcontent	dissident	rebel	revolutionary	activist	campaigner	advocate
+school	educational_institution	learning_institution	academy	college	university	seminary	conservatory	institute	center	foundation	organization	group	entity	body
+cloak	cape	mantle	wrap	shawl	scarf	stole	tippet	muffler	boa	neckerchief	bandana	kerchief	headwear	clothing
+testimony	statement	affidavit	declaration	deposition	sworn_statement	legal_document	document	paper	writing	text	literature	art	creation	product
+stone	calculus	concretion	urolith	kidney_stone	urinary_stone	gallstone	biliary_stone	mineral_deposit	geological_formation	natural_object	object	thing	entity	existence
+herbal_drink	beverage	liquid	drink	consumable	substance	item	thing	food	nourishment	sustenance	comestible	victual	provision	nutriment
+oil_wellhead	oil_platform	oil_rig	oil_producer	oil_field	facility	structure	building	construction	site	location	place	area	zone	region
+plot	scheme	intrigue	plan	design	project	enterprise	undertaking	venture	operation	maneuver	gambit	stratagem	artifice	wile
+ease	facility	simplicity	comfort	pleasure	luxury	amenity	benefit	advantage	blessing	boon	godsend	prize	treasure	windfall
+currency	money	tender	medium_of_exchange	financial_instrument	capital	wealth	cash	lucre	rhino	loot	dough	bread	lettuce	green
+steward	character	servant	employee	worker	person	individual	being	creature	soul	entity	object	thing	item	gadget
+dish	food	cuisine	nourishment	sustenance	comestible	victual	provision	nutriment	refreshment	repast	meal	banquet	feast	spread
+criticism	disapproval	censure	blame	rebuke	reproach	condemnation	denunciation	vilification	castigation	excoriation	panning	roasting	toasting	grilling
+mountain	hill	peak	summit	volcano	landform	geographical_feature	natural_feature	physical_feature	feature	place	location	area	zone	region
+color	hue	shade	tint	tone	property	characteristic	attribute	feature	quality	aspect	facet	side	phase	element
+music_company	company	business	organization	entity	group	body	collective	association	society	club	team	crew	gang	band
+biographer	author	writer	journalist	historian	scholar	academic	intellectual	expert	professional	specialist	authority	figure	person	individual
+aerial	part	component	device	apparatus	equipment	instrument	tool	utensil	gadget	contraption	contrivance	gizmo	widget	doodad
+port_city	city	town	village	settlement	community	municipality	district	region	area	place	location	spot	site	scene
+survey	assessment	test	exam	quiz	evaluation	appraisal	review	critique	analysis	study	research	investigation	inquiry	examination
+botanist	scientist	researcher	academic	intellectual	expert	professional	specialist	authority	figure	person	individual	human	being	creature
+ad_agency	agency	business	company	organization	entity	group	body	collective	association	society	club	team	crew	gang
+measurement	statistic	data	fact	information	intelligence	knowledge	wisdom	understanding	insight	awareness	consciousness	perception	sensation	feeling
+man	boy	gentleman	person	individual	human	being	creature	animal	organism	life_form	entity	thing	object	matter
+storm	tempest	cyclone	twister	tornado	whirlwind	squall	gale	windstorm	meteorological_event	natural_event	weather_event	environmental_event	physical_event	event
+roman_emperor	caesar	imperator	emperor	ruler	monarch	sovereign	king	head_of_state	leader	political_figure	historical_figure	notable_person	person	human
+deadnettle	weasel_snout	lamium_amplexicaule	herb	plant	groundcover	weed	wildflower	flower	flora	vegetation	plant_life	nature	creation	universe
+multiple_sclerosis	disease	autoimmune_disease	neurological_condition	chronic_condition	disability	illness	ailment	condition	affliction	health_problem	medical_problem	health_issue	problem	setback
+royal_duke	aristocrat	noble	peer	lord	baron	viscount	marquess	earl	count	prince	monarch	sovereign	ruler	head_of_state
+love	emotion	feeling	sentiment	attachment	fondness	caring	kindness	tenderness	warmth	compassion	empathy	sympathy	concern	interest
+prejudice	bias	discrimination	intolerance	racism	sexism	nationalism	xenophobia	bigotry	fanaticism	fundamentalism	extremism	radicalism	militancy	fascism
+therapy	counseling	psychotherapy	treatment	intervention	psychology	mental_health	behavioral_health	psychiatry	human_services	social_work	helping_profession	profession	career	occupation
+greeting	gesture	sign	symbol	communication	interaction	etiquette	custom	tradition	ritual	ceremony	practice	behavior	action	deed
+canid	mammal	animal	predator	canine	vulpine	red_fox	gray_fox	arctic_fox	kit_fox	swift_fox	fennec_fox	bat-eared_fox	pale_fox	island_fox
+interstate_highway	highway	road	street	thoroughfare	route	path	way	corridor	passage	channel	artery	connection	link	communication_route
+american	actor
+american	politician
+primate	mammal	animal	living_being	organism	entity	being	creature
+competition	contest	event	spectacle	occasion
+settlement	town	city	place	location	area
+film	movie	work_of_art
+song	musical_work	creation	product
+substance	chemical	compound
+crime	wrongdoing	injustice	offense
+phrase	grammatical_structure	construction
+top	clothing	dress	garment	apparel	attire	vestment	raiment	cloth	material	textile	fabric	web	clothier's_material	haberdasher's_material
+vista	view	scene	landscape	seascape	cityscape	townscape	prospect	outlook	aspect	survey	sweep	theatre	spectacle	perspective
+union	combination	fusion	amalgamation	merger	juncture	consolidation	integration	incorporation	unification	conjunction	connection	association	partnership	affiliation
+grownup	elder	senior	mature	developed	full-grown	of_age	man	woman	person	human	being	creature	mortal	soul
+signature	ink	pen	handwriting	writing	composition	document	paper	parchment	papyrus	vellum	parchment_paper	scroll	epistle	letter
+grain	cereal	grass	plant	flora	botanical	vegetable	food	nourishment	sustenance	provision	diet	fare	repast	victuals
+actress	performer	entertainer	artist	star	celebrity	icon	legend	public_figure	personality	individual	person	human	being	creature
+sequel	continuation	addition	supplement	appendix	addendum	rider	codicil	postscript	epilogue	afterword	conclusion	round-off	wrap-up	summing-up
+writer	word_artist	author	scribe	penman	wordsmith	quill_driver	inkspiller	word_processor	scriptwriter	playwright	novelist	essayist	poet	journalist
+platform	service	emulation	gaming	entertainment	software	application	program	code	data	bits	information	technology	science	knowledge
+_flowing_water	stream	river	watercourse	waterway	drainage	channel	_aquatic_feature	geographic_feature	_natural_object	object	entity	thing	concept	abstraction
+_quantum_theory	physics	natural_science	science	knowledge	_academic_discipline	field	discipline	subject	area	domain	realm	sphere	province	bailiwick
+country	nation	state	sovereign_state	independent_state	self-governing_state	_political_entity	political_unit	territory	land	_geographical_entity	entity	object	thing	concept
+cancer	malignant_tumor	tumor	abnormal_growth	neoplasm	growth	_pathological_process	disease	disorder	illness	ailment	_medical_condition	condition	state	situation
+_gemstone_material	material	substance	matter	_natural_resource	resource	_economic_resource	wealth	assets	capital	property	possessions	_economic_value	value	worth
+resource	_economic_resource	wealth	assets	capital	property	possessions	_economic_value	value	worth	_natural_object	object	entity	thing	concept
+_french_philosopher	philosopher	thinker	intellectual	scholar	academic	_political_figure	politician	public_official	_french_politician	_french_socialist	socialist	_political_ideologue	ideologue	_political_activist
+_spatial_variation	variation	variance	_difference_in_degree	difference	distinction	disparity	divergence	_gradual_change	change	alteration	modification	transition	_transformation_process	process
+performer	artist	entertainer	_theatrical_performer	_stage_actor	_film_actor	_television_actor	_radio_actor	_voice_actor	_stunt_performer	_motion_capture_performer	_improvisational_performer	_physical_comedian	_stand-up_comedian	_musical_theatre_performer
+_bat-and-ball_game	game	sport	competition	contest	_team_sport	_softball_game	_sporting_event	event	happening	occurrence	incident	affair	transaction	proceeding
+city	town	locality	human_settlement	settlement	municipality	urban_area	metropolitan_area	built-up_area	populated_area	locality	place	inhabited_place	populated_place	location
+train	railway	locomotive	vehicle	transport	transportation	conveyance	public_transport	passenger_train	narrow_gauge_railway	mountain_railway	scenic_railway	tourist_railway	observation_train	panoramic_train
+matter	substance	material	liquid	gas	fluid	ionized_gas	gas_plasma	state_of_matter	phase_of_matter	superheated_gas	incandescent_gas	luminous_gas	conductive_gas	electrified_gas
+disease	illness	medical_condition	health_condition	joint_disease	arthritis	inflammatory_arthritis	calcium_pyrophosphate_deposition_disease	cppd_crystal_deposition_disease	chrondrocalcinosis	articular_chrondrocalcinosis	pseudorheumatism	false_gout	degenerative_joint_disease	wear_and_tear_arthritis
+person	individual	human	human_being	homo_sapiens	man	male	author	writer	speaker	lecturer	public_speaker	counterculture_icon	lsd_advocate	drug_guru
+room	chamber	space	area	department	compartment	storage_room	storage_area	cupboard	pantry	food_cupboard	provision_room	victuals_room	scullery	service_room
+consequence	outcome	result	penalty	sanction	retribution	justice	comeuppance	chastisement	discipline	correction	moral_instruction	behavioral_consequence	negative_reinforcement	adversity
+song	music	track	composition	piece_of_music	musical_composition	popular_music	pop_music	pop_song	love_song	romantic_song	ballad	soft_rock	easy_listening	adult_contemporary
+card	payment_card	plastic_card	magnetic_card	smart_card	chip_card	electronic_payment_card	financial_transaction_card	non-cash_payment_card	cashless_payment_card	digital_payment_card	contactless_payment_card	mobile_payment_card	virtual_payment_card	credit_card_debt
+technique	method	procedure	protocol	process	algorithm	bioinformatics_tool	sequence_analysis_tool	genome_sequencing_tool	homology_search_tool	alignment_tool	sequence_comparison_tool	database_search_tool	biosequence_analysis_tool	molecular_biology_tool
+validity
+bank	financial_institution
+mohammad_yousuf	cricketer
+subpoena
+throw
+malediction	curse
+wsrp
+olga_lengyel	holocaust_survivor
+medalist
+gdbserver
+ming_emperor	chinese_emperor	ruler	sovereign	monarch	king	political_leader	leader	statesman	dignitary	official	administrator	executive	manager	supervisor
+naval_officer	commissioned_officer	officer	military_officer	military_personnel	serviceman	servicewoman	soldier	sailor	airman	marine	coast_guardsman	guardsman	police_officer	firefighter
+religious_covenant	solemn_agreement	agreement	contract	pact	treaty	alliance	understanding	bargain	promise	pledge	vow	oath	sworn_statement	declaration
+sweet_flavor	sour_flavor	bitter_flavor	salty_flavor	umami_flavor	taste	sensation	perception	experience	feeling	emotion	mood	disposition	temperament	personality
+charitable_organization	non-profit_organization	organization	group	association	society	institution	foundation	trust	corporation	company	firm	business	enterprise	undertaking
+atlanta_streetcar_line	streetcar_line	public_transportation	transportation	travel	movement	locomotion	motion	action	activity	process	procedure	method	technique	strategy
+celtic_god	god	deity	supernatural_being	divine_being	heavenly_being	immortal_being	omnipotent_being	omniscient_being	omnipresent_being	creator	preserver	destroyer	redeemer	savior
+moral_character	ethical_character	virtue	goodness	righteousness	integrity	honesty	sincerity	trustworthiness	loyalty	faithfulness	dependability	reliability	responsibility	accountability
+food_preparation	cooking	culinary_art	gastronomy	cuisine	cookery	food_service	catering	dining	eating	nourishment	nutrition	sustenance	subsistence	survival
+carbamate_pesticide	pesticide	insecticide	acaricide	nematicide	rodenticide	fungicide	herbicide	biocide	chemical	substance	matter	stuff	material	thing
+serpent	snake	reptile	amniote	tetrapod	vertebrate	chordate	animal	organism	living_thing	being	creature	entitiy	thing	object
+plant	angiosperm	eudicot	rosid	buckwheat	grain	cereal	food	edible	nutriment	substance	matter	material	stuff	thing
+benefit	compensation	payment	money	finance	asset	resource	wealth	property	possession	belonging	article	item	object	thing
+cook	chef	kitchen_staff	employee	worker	laborer	person	individual	human	being	creature	entitiy	thing	object	substance
+software	program	application	utility	tool	instrument	apparatus	device	gadget	machine	mechanism	contraption	appliance	thing	object
+property	belonging	asset	resource	wealth	finance	money	payment	compensation	benefit	article	item	object	thing	substance
+train	vehicle	transportation	public_transit	transit	travel	journey	movement	motion	change	transformation	alteration	variation	deviation	difference
+check	examination	test	assessment	evaluation	process	procedure	method	technique	system	approach	strategy	plan	scheme	design
+cell	embryonic_cell	stem_cell	germ_cell	sex_cell	gamete	zygote	fertilized_egg	ovum	egg_cell	sperm_cell	male_gamete	female_gamete	sex_cell	reproductive_cell
+theft	robbery	crime	offense	misdeed	wrongdoing	sin	transgression	violation	breach	infraction	offence	misdemeanor	felony	atrocity
+achievement	accomplishment	attainment	result	outcome	final_product	end_product	culmination	denouement	climax	zenith	apex	pinnacle	summit	top
+band	musical_group	music_group	musical_ensemble	ensemble	group_of_musicians	performers	artists	entertainers	show_business_figures	public_figures	celebrities	notable_people	people	human_beings
+writer	screenwriter	playwright	novelist	author	storyteller	creative_writer	literary_artist	artist	thinker	intellectual	scholar	academic	educator	teacher
+medical_facility	healthcare_facility	clinic	medical_center	healthcare_center	health_center	wellness_center	treatment_center	rehabilitation_center	surgery_center	emergency_room	outpatient_clinic	inpatient_clinic	hospital_ward	intensive_care_unit
+actress	performer	artist	entertainer	show_business_figure	public_figure	celebrity	notable_person	person	human_being	female	woman	adult	individual	being
+liability	legal_responsibility	responsibility	duty	obligation	burden	charge	task	mission	purpose	role	function	capacity	responsibility	commitment
+property	real_property	land	buildings	structures	homes	apartments	commercial_buildings	industrial_buildings	farmland	forestland	vacant_land	developed_land	undeveloped_land	investment
+theory	scientific_theory	hypothesis	explanation	account	model	framework	construct	paradigm	schema	conception	notion	idea	thought	principle
+currency	money	medium_of_exchange	legal_tender	paper_money	coins	electronic_money	virtual_currency	cryptocurrency	financial_instrument	asset	investment	commodity	resource	value
+ruler	monarch	king	queen	emperor	empress	sovereign	head_of_state	head_of_government	prime_minister	president	dictator	tyrant	despot	autocrat
+stupidity	foolishness	idiocy	senselessness	folly	asininity	fatuousness	absurdity	ridiculousness	preposterousness	irrationality	illogicality	madness	insanity	dementia
+conglomeration	group	cluster	open_cluster	star_cluster	astronomical_object	celestial_body	celestial_object	space_object	astronomical_object	cosmos	creation	existence	nature	universe
+hitter	batter	slugger	baseball_player	athlete	sportsperson	individual	person	human	mortal	creature	being	entity	organism	life_form
+support	assistance	aid	help	backing	reinforcement	relief	succor	assistance	reinforcement	succor	support	backing	patronage	favor
+municipality	swansea	city	town	settlement	conurbation	urban_area	place	locality	location	site	situation	spot	position	place
+device	tool	instrument	equipment	apparatus	ultramicroscope	microscope	scientific_instrument	scientific_instrument	optical_instrument	apparatus	appliance	device	contrivance	gadget
+clothing	attire	apparel	outfit	garments	dress	costume	ensemble	wardrobe	raiment	clothing	apparel	attire	garments	dress
+recovery	retrieval	getting_back	regaining	reclaiming	recovering	fetching	acquiring	obtaining	gaining	finding	discovery	getting	reception	acceptance
+newspaper	tulsa_world	daily_paper	broadsheet	periodical	publication	print_media	written_communication	communication	information	knowledge	learning	wisdom	understanding	cognition
+danger	jeopardy	peril	risk	hazard	threat	menace	insecurity	vulnerability	precariousness	instability	unsteadiness	insecurity	weakness	deficiency
+madness	insanity	dementia	paranoia	psychosis	mania	mental_illness	illness	disease	distemper	ailment	affliction	disorder	ailment	condition
+district	neighborhood	locality	community	town	township	village	municipality	settlement	habitation	place	location	area	region	territory
+wind	gale	breeze	hurricane	squall	cyclone	tempest	storm	weather_event	meteorological_phenomenon	atmospheric_phenomenon	natural_phenomenon	physical_phenomenon	phenomenon	occurrence
+attribution	ascription	allegation	accusation	charge	indictment	arraignment	claim	assertion	statement	declaration	utterance	expression	communication	message
+region	area	territory	district	province	state	nation	country	land	place	location	terrain	ground	surface	area
+university	institution	organization	establishment	foundation	institute	college	academy	school	educational_institution	learning_institution	educational_establishment	place_of_education	center_of_learning	learning_center
+boat	ship	vessel	craft	conveyance	vehicle	transport	transportation	means_of_transport	mode_of_transport	mode_of_transportation	way_of_transport	way_of_transportation	method_of_transport	method_of_transportation
+guideline	rule	regulation	principle	law	measure	benchmark	criterion	requirement	specification	qualification	condition	term	stipulation	provision
+husk	shell	hull	peel	rind	skin	coating	covering	layer	stratum	film	membrane	surface	exterior	lining
+state	province	territory	region	area	district	nation	country	land	place	location	terrain	ground	surface	territory
+laptop	machine	device	gadget	computer	electronic	electronic_device	electronic_gadget	electronic_machine	portable	portable_computer	portable_device	portable_electronic	portable_electronic_device	portable_electronic_gadget
+olive	food	plant	fruit	vegetable	produce	tree_fruit	stone_fruit	green_food	green_plant	green_fruit	green_vegetable	green_produce	green_tree_fruit	green_stone_fruit
+game	hobby	activity	intellectual_activity	tactical_game	strategy_game	board_game	card_game	roleplaying_game	war_game	computer_game	video_game	digital_game	electronic_game	interactive_game
+choking	suffocation	asphyxiation	killing	murder	violence	crime	assault	heinous_crime	cold_blooded_murder	intentional_killing	premeditated_murder	homicide	capital_crime	death_penalty_crime
+dessert	food	treat	sweet	candy	snack	party_food	party_treat	holiday_food	holiday_treat	good_food	tasty_treat	delicious_dessert	yummy_snack	mouthwatering_party_food
+town	location	place	area	district	neighborhood	municipality	community	populated_area	local_area	residential_area	rural_area	urban_area	suburban_area	metro_area
+author	writer	novelist	fiction_writer	fantasy_writer	science_fiction_writer	mystery_writer	thriller_writer	horror_writer	genre_fiction_writer	speculative_fiction_writer	supernatural_fiction_writer	pulp_fiction_writer	popular_fiction_writer	best_selling_author
+person	individual	human	being	soul	mind	consciousness	intellect	spirit	mortal	earthling	worldly	physical_being	material_being	natural_being
+deviant	criminal	weirdo	freak	pervert	sexual_deviant	sexual_criminal	sexual_weirdo	sexual_freak	sexual_offender	child_molester	rapist	pedophile	sexual_predator	sexual_abuser
+criminal	outlaw	gangster	crook	bandit	robber	thief	burglar	lawbreaker	wrongdoer	evildoer	felon	convict	criminal_offender	law_enforcement_target
+oarlock	boat_accessory	boat_hardware	tool	maritime_equipment	nautical_accessory	watercraft_equipment	rowing_equipment	aquatic_equipment	vessel_component	ship_component	sailing_accessory	rowing_gear	boating_tool	water_sports_equipment
+proxy	server	internet_tool	network_tool	computing_tool	software	application	digital_tool	virtual_tool	web_tool	online_tool	networking_device	data_tool	computer_program	internet_utility
+boson	particle	subatomic_particle	elementary_particle	fundamental_particle	force_carrier	gauge_boson	mediator_particle	interaction_particle	quantum_particle	atomic_particle	physical_particle	nuclear_particle	energy_particle	higgs_boson
+test_site	military_facility	nuclear_test_site	testing_ground	research_facility	scientific_facility	experimental_area	weapons_test_site	military_research_facility	nuclear_research_facility	government_facility	defense_facility	weapons_development_site	national_security_facility	strategic_facility
+dictionary	reference_book	language_resource	educational_tool	learning_material	writing_tool	communication_tool	language_dictionary	english_dictionary	american_dictionary	lexicographic_work	wordbook	vocabulary_tool	language_reference	linguistics_resource
+comic_strip	entertainment	humor	visual_media	print_media	cartoon	comic	sequential_art	graphic_novel	animated_comic	funny_pages	visual_storytelling	illustrated_story	entertainment_medium	visual_entertainment
+software	computer_program	digital_tool	software_development	computer_science	technology	programming	collaborative_software	free_software	distributed_software	open_source_project	open_source_community	open_source_software	open_source_code	open_source_platform
+person	individual	aristocrat	nobleman	noblewoman	royalty	nobility	elite	society_figure	distinguished_person	upper_class	ruling_class	well-born_person	high-ranking_person	respected_person
+publication	periodical	magazine	newspaper	print_media	communication_tool	information_source	news_source	current_events	written_communication	organizational_communication	member_communication	informational_newsletter	promotional_newsletter	industry_newsletter
+actor	performer	entertainer	theater_actor	film_actor	television_actor	broadway_actor	stage_actor	comedian	vocalist	singer	theater_personality	entertainment_personality	famous_actor	award-winning_actor
+object	outline	suggestion	plan	scheme	platform	blueprint	draft	proposition	offer	representation	bid	tender	application	request
+institution	building	establishment	organization	group	corporation	business	enterprise	firm	society	academy	seminary	college	university	school
+coin	currency	monetary_unit	legal_tender	medium_of_exchange	store_of_value	unit_of_account	legal_tender	specie	cash	money	pocket_change	funds	finances	wealth
+idea	concept	thought	notion	belief	opinion	feeling	emotion	sensation	sense	perception	image	mental_picture	impression	understanding
+person	individual	human	being	creature	organism	animal	voter	activist	feminist	crusader	reformer	advocate	suffragist	suffragette
+disease	ailment	illness	disorder	sickness	affliction	complaint	infirmity	pathology	health_problem	genetic_disease	inherited_disorder	familial_disease	hereditary_disease	congenital_disease
+tube	channel	duct	passageway	conduit	pipeline	artery	vein	ureter	fallopian_tube	oviduct	reproductive_organ	female_organ	reproductive_tract	female_anatomy
+obstacle	hindrance	impediment	barrier	obstruction	roadblock	barricade	siege	blockade	military_strategy	military_tactic	military_operation	warfare	combat	battle
+person	individual	human	being	creature	organism	animal	sailor	seaman	mariner	seafarer	boatman	waterman	marine	naval
+person	individual	human	being	creature	organism	animal	mathematician	scientist	academic	professor	researcher	scholar	intellectual	thinker
+hurricane	tropical_storm	storm	cyclone	low_pressure_system	atmospheric_phenomenon	natural_phenomenon	physical_phenomenon	phenomenon	weather	climate	nature	science	knowledge	field_of_study
+milk	dairy_product	animal_product	food	beverage	liquid	substance	matter	physical_property	nature	science	knowledge	field_of_study	profession	occupation
+internet	online_world	world_wide_web	web	network	communication_technology	technology	science	knowledge	field_of_study	profession	occupation	job	work	activity
+university	college	higher_education_institution	educational_institution	institution	organization	body	group	society	community	people	human_being	animal	life	nature
+forum	online_forum	discussion_board	message_board	community	group	society	organization	institution	body	system	structure	model	theory	field_of_study
+ground	soil	earth	land	terrain	surface	space	area	region	place	location	setting	environment	world	nature
+editor	journalist	writer	author	creative_professional	professional	worker	employee	person	human_being	animal	life	organism	living_thing	nature
+note	message	memo	communication	information	knowledge	data	facts	evidence	proof	argument	reason	logic	thought	mind
+flow	movement	motion	change	process	system	structure	model	theory	field_of_study	science	knowledge	information	data	facts
+rhizome	plant	organism	living_thing	life	nature	science	knowledge	field_of_study	botany	biology	natural_science	physical_science	science	knowledge
+menace	intimidation	threat
+bowhead	whale	mammal	animal
+openoffice	software	computer_program
+gegenschein	zodiacal_light	light
+cancellation	recession	withdrawal
+rip_current	sea_current	rip
+sonora	state	place
+writing	book	literature
+sadness	depression	dejection
+heraldry	symbol	blazonry
+astrocytoma	glioma	malignant_neoplasm	brain_tumor	tumor	neoplasm	pathological_entity	disease	medical_condition	health_problem	medical_problem	cancer	brain_cancer	central_nervous_system_cancer	malignant_brain_tumor
+coin	currency	money	british_coin	penny	sterling	british_currency	british_penny	numismatic_item	collectible	artifact	historical_artifact	british_historical_artifact	british_numismatic_item	old_british_coin
+vehicle	car	automobile	cab	public_transportation	transportation	urban_transportation	passenger_vehicle	commercial_vehicle	motorized_vehicle	wheeled_vehicle	land_vehicle	yellow_cab	medallion_vehicle	livery_vehicle
+time_of_day	midday	afternoon	noon	noontime	mealtime	eating_time	breakfast	dinner	brunch	supper	meal	repast	food	nourishment
+kensington	district	neighborhood	london_district	london_neighborhood	residential_area	urban_area	city_district	city_neighborhood	borough	region	location	place	geographical_location	point_of_interest
+politician	minister	diplomat	journalist	swedish_politician	swedish_minister	swedish_diplomat	swedish_journalist	female_politician	female_minister	female_diplomat	female_journalist	leader	public_figure	notable_person
+zone	area	region	buffer_zone	boundary	border	line	interface	margin	band	strip	corridor	perimeter	protection_zone	safety_zone
+fish	marine_fish	saltwater_fish	ocean_fish	sebastes	rock_cod	redfish	snapper	grouper	sea_bass	marine_animal	aquatic_animal	vertebrate	animal	organism
+volcano	mountain	peak	summit	stratovolcano	active_volcano	colombian_volcano	colombian_mountain	colombian_peak	colombian_summit	geographical_feature	natural_feature	landform	geological_feature	natural_landmark
+artisan	craftsman	artist	maker	creator	ceramicist	clay_worker	earthenware_maker	stoneware_maker	porcelain_maker	pottery_maker	handcrafter	skilled_worker	professional	creative_person
+pipes	hardware	plumbing_supplies	materials	products	construction_materials	building_supplies	home_improvement	renovation	remodeling	diy	craft	hobby	trade	profession
+meat	protein	red_meat	animal_product	food	livestock	cattle	animal	organism	living_thing	creature	mammal	vertebrate	animal_kingdom	life
+corporation	company	business	enterprise	organization	institution	entity	group	body	association	partnership	alliance	collective	cooperative	consortium
+weight	mass	quantity	amount	measure	metric	unit	system	standard	benchmark	reference	parameter	criterion	threshold	limit
+grill	kitchen_appliance	appliance	device	machine	instrument	tool	equipment	utensil	product	commodity	goods	wares	merchandise	item
+person	human	male	actor	performer	celebrity	star	individual	being	creature	entity	soul	mind	spirit	consciousness
+immune_system	biology	molecule	protein	compound	chemical	substance	matter	material	entity	thing	object	concept	idea	thought
+water	fluid	liquid	substance	material	matter	element	compound	chemical	molecule	atom	particle	matter	mass	weight
+user	person	human	individual	being	soul	mind	spirit	consciousness	entity	thing	object	concept	idea	thought
+policy	law	regulation	rule	standard	guideline	procedure	protocol	requirement	mandate	obligation	duty	responsibility	burden	constraint
+college	institution	establishment	building	structure	university	educational_institution	school	academy	learning_center	higher_education_institution	undergraduate_institution	liberal_arts_college	private_college	research_institution
+rock	stone	igneous_rock	sedimentary_rock	metamorphic_rock	sandstone	shale	limestone	glacial_deposit	conglomerate	hard_rock	grey_stone	claystone	till	parent_rock
+street	road	highway	thoroughfare	avenue	boulevard	parkway	lane	alley	drive	terrace	court	place	crescent	way
+person	individual	human	human_being	homo_sapien	citizen	inhabitant	resident	native	ethnic_group	central_asian	turkic_people	kazakhstani	steppe_nomad	horseback_rider
+coin	currency	money	metal	gold	jewelry	collector's_item	bullion	precious_metal	legal_tender	numismatic_item	commemorative_coin	investment	store_of_value	medium_of_exchange
+author	writer	novelist	storyteller	fiction_writer	romance_novelist	contemporary_romance_writer	women's_fiction_writer	inspirational_fiction_writer	bestselling_author	award-winning_author	public_speaker	book_reviewer	writing_teacher	creative_writing_instructor
+scientist	researcher	physician	surgeon	neurosurgeon	inventor	pioneer	nobel_laureate	innovator	medical_doctor	healthcare_professional	radiation_therapist	cancer_specialist	brain_tumor_specialist	stereotactic_radiosurgery_pioneer
+chemical	compound	substance	reagent	borohydride	reducing_agent	hydride	inorganic_compound	sodium_compound	catalyst	industrial_chemical	laboratory_reagent	pharmaceutical_ingredient	fuel_cell_component	hydrogen_storage_material
+limb	body_part	upper_extremity	appendage	forelimb	upper_arm	lower_arm	joint	bone	muscle	tendon	ligament	vascular_system	nerve	skin
+fruit	food	plant	seed	berry	red_fruit	tart_fruit	superfood	antioxidant	culinary_ingredient	medicinal_fruit	vitamin-rich_fruit	fiber-rich_fruit	potassium-rich_fruit	anti-inflammatory_fruit
+civil_engineering	civil_works	facilities	transport	energy	telecommunication	construction	resource	network	development	system	utility	infrastructure	industry	organization
+conference	workshop	symposium	meeting	event	gathering	seminar	session	discussion	lecture	forum	presentation	training	workshop_seminar	learning_event
+humor	graphic_novel	cartoon	comic_book	comic_strip	satire	entertainment	art	visual_art	literature	fiction	storytelling	publication	media	funny_pages
+galaxy_group	galaxy_cluster	group_of_galaxies	cosmic_structure	gravitational_system	astronomical_object	astronomical_system	celestial_body	universe	physical_object	matter	substance	local_group_of_galaxies	milky_way_galaxy	andromeda_galaxy
+dietetics	food_science	health	wellness	well_being	lifestyle	biology	science	knowledge	nourishment	sustenance	food	drink	nutrient	dietary_ingredient
+island	isle	landmass	geographical_feature	earth_feature	location	place	topography	terrain	landscape	environment	nature	wilderness	scenery	outdoors
+cuticle	nail	digit	appendage	body_part	human_body	anatomy	biology	science	knowledge	nature	universe	object	thing	entity
+vegan	herbivore	dieter	person	human	being	mammal	animal	organism	life_form	nature	universe	object	thing	entity
+odor	smell	aroma	scent	fragrance	perfume	sensory_experience	sensation	perception	feeling	consciousness	mind	intellect	understanding	knowledge
+writer	author	novelist	poet	artist	thinker	intellectual	academic	professor	teacher	educator	mentor	leader	visionary	pioneer
+lemon_balm	plant	species	taxon	verbena	flowering_plant	seed_plant	vascular_plant	land_plant	plant_life	tree_of_life	magnolia	dicot	eudicot	rosid
+aftermath	result	consequence	effect	outcome	upshot	issue	development	occurrence	happening	event	incident	thing	affair	business
+truth	fact	reality	actuality	verity	authenticity	correctness	accuracy	precision	exactitude	fidelity	faithfulness	genuineness	sincerity	honesty
+honesty	truthfulness	sincerity	integrity	uprightness	rectitude	probity	honor	morality	ethics	principle	right	good	virtue	value
+white_water	water	liquid	fluid	substance	matter	material	physical_object	object	entity	thingamajig	whatchamacallit	doohickey	gizmo	gadget
+dorion_sagan	person	human	homo_sapiens	species	taxon	mammal	vertebrate	animal	organism	life_form	living_thing	being	entity	existent
+frank_harris	person	human	homo_sapiens	species	taxon	mammal	vertebrate	animal	organism	life_form	living_thing	being	entity	existent
+molecule	particle	substance	matter	material	physical_object	object	entity	thingamajig	whatchamacallit	doohickey	gizmo	gadget	widget	contraption
+hypostasis	person	being	entity	creature	individual	soul	mind	spirit	consciousness	self	ego	id	superego	psyche
+hero	person	human	homo_sapiens	species	taxon	mammal	vertebrate	animal	organism	life_form	living_thing	being	entity	existent
+city	county_seat	municipality	place	population	settlement	town	urban_area	human_settlement	locale	neighborhood	polity	populated_place	residential_area	township
+river	waterway	channel	stream	creek	brook	rivulet	run	watercourse	drainage	tributary	watershed	basin	hydrographic_feature	geographical_feature
+wood	timber	lumber	material	substance	resource	raw_material	natural_resource	renewable_resource	wood_product	forest_product	plant_product	organic_material	lignocellulosic_material	agricultural_product
+group	band	crew	ensemble	troupe	company	performers	artists	entertainers	players	actors	actresses	singers	dancers	musicians
+property	characteristic	attribute	feature	quality	aspect	facet	parameter	dimension	measure	metric	parameter	specification	standard	requirement
+flame	fire	torch	light	source_of_light	illumination	glow	blaze	blaze	conflagration	wildfire	forest_fire	bushfire	grassland_fire	peat_fire
+dictator	ruler	leader	politician	head_of_state	statesman	general_secretary	communist	revolutionary	military_leader	authoritarian_leader	totalitarian_leader	strongman	tyrant	despot
+comedian	performer	entertainer	artist	actor	stand-up_comedian	humorist	satirist	critic	social_commentator	public_figure	television_personality	radio_personality	media_personality	internet_personality
+singer	musician	performer	artist	entertainer	actress	dancer	songwriter	composer	vocalist	music_producer	entertainer	recording_artist	performer	celebrity
+scientist	researcher	academic	scholar	educator	professor	biologist	life_scientist	natural_scientist	evolutionary_scientist	geneticist	ecologist	behaviorist	conservationist	molecular_biologist
+vapour	air_pollution	smoke
+day	past	time
+business	company	group	telecommunication_company
+video_game	game	stealth_game	action_game	adventure_game
+toy	building_block	plastic_brick	construction_toy
+head_gear	hat	cap
+person	human	male
+person	human	male
+assistance	help	provision
+brown	colour	pigment	hue
+portion	patch	area	ground	land	plot	property	territory	region	realm	sphere	sphere_of_influence	sphere_of_activity	sphere_of_knowledge	sphere_of_interest
+fort	castle	stronghold	military_fort	army_fort	military_base	army_base	military_installation	military_post	military_outpost	military_compound	military_stronghold	military_fortress	military_establishment	military_facility
+approval	certification	endorsement	authorization	validation	ratification	recognition	sanction	franchise	license	permit	authorization_document	authorization_paper	authorization_certificate	authorization_letter
+instrument	apparatus	machine	device	tool	mechanism	apparatus	tool	device	instrument	measurement_device	diagnostic_device	monitoring_device	mechanical_device	electrical_device
+conduit	pipe	tube	line	channel	artery	vessel	vein	highway	road	pathway	corridor	passage	route	network
+camera	box_camera	movie_camera	television_camera	video_camera	photographic_camera	digital_camera	instant_camera	still_camera	motion_picture_camera	film_camera	optical_device	imaging_device	imaging_system	photographic_system
+murderer	assassin	executioner	slayer	slaughterer	butcher	exterminator	death_dealer	death_merchant	violent_criminal	cold_blooded_killer	serial_killer	mass_murderer	homicidal_maniac	psychopathic_killer
+passion	emotion	feeling	intensity	power	force	violence	fury	rage	anger	wrath	ferocity	savagery	barbarity	brutality
+madia	plant	seed	flower	genus	eudicot	flowering_plant	magnoliopside	magnoliophyte	tracheophyte	vascular_plant	spermatophyte	phanerogam	angiosperm	eudicot
+prince	man	male	husband	spouse	consort	king_consort	royal_husband	royal_spouse	royal_consort	royal_mate	royal_companion	royal_partner	noble	aristocrat
+energy	information_theory	physics	science	societal_phenomenon	philosophy	academia	terminology	technology	futurology	social_development	social_progress	cybernetics	complexity_theory	information_science
+state_of_development	world	nation	global_situation	living_conditions	society	civilization	culture	social_class	political_system	economic_system	geopolitics	globalization	sustainable_development	indigenous_peoples
+childcare	parenting	family	social_support	domestic_work	caregiving	nurture	child_development	education	social_welfare	early_childhood_education	human_services	healthcare	social_work	household_economics
+government_regulation	economic_policy	legal_framework	industry	market	economy	business	finance	competition	trade	commerce	economic_development	economic_liberalism	capitalism	free_market
+city-state	country	monarchy	european_nation	mediterranean	principality	tourist_destination	sovereign_state	financial_center	tax_haven	gambling_center	luxury_destination	mediterranean_sea	europe	western_europe
+currency	finance	economics	international_economics	exchange_rate	foreign_exchange	balance_of_payments	monetary_policy	trade	economics	money	economic_development	financial_system	central_banking	international_finance
+nationalism	patriotism	ideology	political_ideology	social_philosophy	public_opinion	foreign_policy	national_identity	international_relations	diplomacy	international_politics	war_and_peace	military_strategy	grand_strategy	statecraft
+meal	dining	cooking	cuisine	food	nutrition	sustenance	gastronomy	catering	hospitality_industry	social_eating	restaurant	dining_out	social_gathering	food_preparation
+poet	writer	saint	religious_figure	musician	mystic	songwriter	lyricist	composer	philosopher	theologian	devotional_poet	classical_musician	indian_classical_music	bhakti_movement
+politician	public_figure	government_official	elected_official	united_states_senator	united_states_government	republican_party	american_politician	american_government	government	legislative_branch	executive_branch	judicial_branch	united_states_politics	american_history
+craft	art	occupation	activity	line_of_work	modeling_occupation	visual_art	fine_art	liberal_art	applied_art	activity_involving_technique	process	practice	pursuit	activity
+prayer	plea	entreaty	supplication	request	appeal	invocation	invocation_to_a_deity	devotional_expression	religious_expression	spiritual_expression	spiritual_practice	belief	faith	religion
+money	funds	income	earnings	pocket_money	personal_allowance	financial_resource	allowance	financial_benefit	compensation	remuneration	consideration	payment	reward	gratuity
+medicine	medical_science	medical_specialty	science	academic_discipline	applied_science	natural_science	physical_science	branch_of_knowledge	field_of_study	intellectual_discipline	area_of_knowledge	area_of_study	field_of_learning	realm_of_knowledge
+desk	table	furniture	personal_computer	computer	electronic_device	workbench	office_equipment	workspace	work_area	workplace	place_of_work	employment	job	occupation
+city_hall	government_building	public_building	building	structure	oakland_city_hall	oakland_building	california_building	west_coast_building	american_building	public_facility	local_government_building	administrative_building	political_building	legislative_building
+pie	pastry	food	dish	dessert	baked_good	sweet_dish	fruit_pie	american_food	american_cuisine	american_dish	comfort_food	home_cooked_meal	traditional_dish	national_dish
+city	municipality	urban_area	metropolis	london	english_city	british_city	european_city	financial_center	global_financial_center	cultural_center	historical_city	tourist_destination	political_center	administrative_center
+gun	firearm	weapon	matchlock_gun	firearm_using_match	early_firearm	historical_firearm	historical_weapon	archaic_weapon	armament	military_equipment	combat_weapon	offensive_weapon	self-defense_weapon	weapon_of_war
+teacher	educator	instructor	reading_teacher	specialist_in_reading_instruction	literacy_educator	primary_school_teacher	elementary_school_teacher	secondary_school_teacher	high_school_teacher	college_professor	university_professor	education_professional	knowledge_imparter	mentor
+hill	mountain	elevation	height	landform	terrain	physical_feature	geographical_feature	natural_feature	natural_object	soil	rock	earth	planet	celestial_body
+tropical_depression	tropical_storm	typhoon	hurricane	cyclone	storm	weather_system	meteorological_event	natural_disaster	natural_phenomenon	physical_phenomenon	phenomenon	event	happening	occurrence
+wrap	covering	garment	clothing	fabric	textile	material	product	item	thing	object	entity	concept	idea	thought
+country	nation	state	land	territory	region	geographical_area	political_entity	geopolitical_entity	sovereign_state	independent_state	nation-state	republic	democracy	parliamentary_democracy
+power	energy	force	work	physics	science	knowledge	information	data	fact	truth	reality	existence	being	entity
+university	higher_education_institution	institution	organization	entity	group	collective	assembly	body	unit	system	structure	framework	foundation	basis
+suit	garment	clothing	fabric	textile	material	product	item	thing	object	entity	concept	idea	thought	information
+television	media	communication	information	data	fact	truth	reality	existence	being	entity	concept	idea	thought	knowledge
+obligation	financial_obligation	liability	money	finance	economics	business	commerce	trade	industry	production	distribution	consumption	exchange	transaction
+parliament	legislative_body	government	political_entity	geopolitical_entity	sovereign_state	nation-state	country	land	territory	region	geographical_area	continent	earth	planet
+teacher	professor	academic	intellectual	professional	employee	worker	individual	person	human	being	entity	creature	organism	life
+immunosuppressant	drug	medication	treatment	therapy	medical_intervention	health_care	medicine	science	knowledge	field	subject	discipline	area	endeavor
+reptile	animal	organism	living_thing	entity	being	creature	object	thing	item	element	component	factor	ingredient	constituent
+expenditure	disbursement	payment	outlay	cost	expense	charge	fee	price	money	currency	tender	medium_of_exchange	store_of_value	unit_of_account
+pleasure	joy	happiness	well-being	contentment	satisfaction	enjoyment	delight	bliss	beatitude	rapture	ecstasy	euphoria	high	trip
+delicacy	dainty	treat	morsel	snack	food	nourishment	sustenance	nutrition	diet	regimen	lifestyle	way_of_life	routine	pattern
+club	golf_club	equipment	tool	device	object	thing	item	element	component	factor	ingredient	constituent	material	substance
+stability	balance	equilibrium	steadiness	firmness	solidity	strength	power	force	energy	vigor	vitality	life	existence	being
+amphibian	tetrapod	vertebrate	animal	organism	living_thing	entity	being	creature	object	thing	item	element	component	factor
+month	time	period	span	duration	interval	space	void	vacuum	emptiness	nothingness	nonexistence	blank	void	gap
+gaon	jewish_scholar	scholar	wise_man	rabbi	religious_leader	leader	authority_figure	person	human	animal	organism	living_thing	entity	being
+organic_chemist	chemist	scientist	researcher	academic	educator	professor	author	writer	person	human	animal	organism	living_thing	entity
+first_milk	milk	dairy_product	food	nutrient	substance	matter	physical_entity	entity	object	thing	concept	idea	notion	thought
+president	politician	government_official	official	leader	authority_figure	person	human	animal	organism	living_thing	entity	being	creature	soul
+picture-taker	artist	creative_professional	professional	worker	person	human	animal	organism	living_thing	entity	being	creature	soul	individual
+side_road	road	way	path	route	track	trail	lane	avenue	street	boulevard	highway	thoroughfare	passageway	access
+molten_rock	rock	stone	mineral	substance	matter	physical_entity	entity	object	thing	concept	idea	notion	thought	abstraction
+group_of_swimmers	club	organization	institution	entity	body	unit	collective	aggregate	sum	quantity	measure	amount	portion	part
+town_in_massachusetts	town	settlement	community	locality	place	area	region	territory	land	ground	earth	planet	celestial_body	object
+monarch	ruler	head_of_state	leader	authority_figure	person	human	animal	organism	living_thing	entity	being	creature	soul	individual
+publisher	organization	entity	being	thing	object	item	particular	individual	one	somebody	someone	person	soul	creature
+park	green_space	outdoors	area	location	place	spot	site	scene	setting	environment	background	context	framework	surroundings
+writer	author	novelist	storyteller	artist	creator	maker	producer	originator	inventor	designer	developer	fabricator	manufacturer	craftsman
+light	lighting	illumination	source_of_light	lamp	fixture	fitting	device	apparatus	appliance	article	thing	object	item	particular
+writer	author	poet	essayist	biographer	lexicographer	critic	intellectual	scholar	academic	professional	worker	laborer	person	individual
+company	business	enterprise	organization	entity	being	thing	object	item	particular	individual	one	somebody	someone	person
+death	decease	demise	end	expiration	fatality	last_breath	loss_of_life	passing	termination	tragedy	misfortune	calamity	disaster	catastrophe
+spider	arachnid	invertebrate	animal	organism	creature	being	thing	object	item	particular	individual	one	somebody	someone
+philosophy	thought	ideology	belief	system	framework	construct	structure	model	pattern	design	plan	scheme	strategy	tactic
+fear	anxiety	nervousness	apprehension	concern	worry	trepidation	unease	discomfort	distress	trouble	turmoil	chaos	pandemonium	uproar
+toxin	poisonous_substance
+sportscaster	journalist	broadcaster	media_personality	celebrity	public_figure
+sponge	absorbent_material
+fruit	citrus_fruit
+physicist	scientist
+fruit	tropical_fruit
+castle	building
+liqueur	alcoholic_beverage
+transportation	logistics	industry
+painter	artist	venetian_painter	italian_painter	early_renaissance_painter
+professional	counselor	legal_professional	law_professional	legal_counsel	lawyer	jurist	advocate	solicitor	barrister	attorney_at_law	public_defender	district_attorney	corporate_counsel	general_counsel
+agreement	resolution	compromise	accord	arrangement	pact	treaty	covenant	contract	understanding	accommodation	adjustment	appeasement	conciliation	mediation
+ideology	political_ideology	political_philosophy	left-wing_ideology	progressivism	social_democracy	democratic_socialism	socialism	communism	anarchism	libertarianism	conservatism	nationalism	fascism	authoritarianism
+charge	expense	payment	deduction	loss	debt	bad_debt	doubtful_debt	uncollectible_debt	worthless_debt	loss_provision	allowance_for_doubtful_accounts	bad_debt_reserve	doubtful_account_provision	uncollectible_account_provision
+body_part	upper_limb	arm	shoulder_joint	glenohumeral_joint	acromioclavicular_joint	sternoclavicular_joint	clavicle	scapula	humerus	deltoid_muscle	trapezius_muscle	supraspinatus_muscle	infraspinatus_muscle	teres_minor_muscle
+request	petition	plea	appeal	entreaty	supplication	invocation	adoration	praise	thanksgiving	confession	intercession	contemplation	meditation	worship
+admit	confess	acknowledge	own_up	cop_to	spill_the_beans	come_clean	own_up_to	level_with	tell_the_truth	be_honest	be_truthful	tell_it_like_it_is	not_lie	not_deceive
+noise	sound	loud_noise	roar	bellowing	howling	screaming	yelling	shouting	crying	weeping	wailing	lamentation	moaning	groaning
+firefighter	emt	first_responder	emergency_responder	public_servant	hero	brave	selfless	dedicated	compassionate	courageous	strong	brave_warrior	american_hero	irish_hero
+investigator	interrogator	judge	magistrate	prosecutor	jury	police_officer	detective	constable	bailiff	warden	prison_guard	executioner	torturer	terrorist
