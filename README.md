@@ -1,5 +1,7 @@
 # Introduction to NLP Project
 
+Link for task description: <href> https://competitions.codalab.org/competitions/17119 </href>
+
 > `python3 corpus_preprocess.py [subtask path-corpus dir-datasets path-output]`     
 This takes the corpus, the dataset directory and the subtask, it outputs the processed corpus after replacing trigrams and bigrams with underscore separated words etc.
 ---
